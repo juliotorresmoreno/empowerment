@@ -1,3 +1,5 @@
+import { User } from 'src/entities/User.entity';
+
 function getConfig() {
   const env = ['development', 'production'].includes(process.env.NODE_ENV)
     ? (process.env.NODE_ENV as any)
@@ -14,14 +16,9 @@ function getConfig() {
       database: process.env.DATABASE_NAME,
       synchronize: true,
       logging: false,
-      entities: ['src/entity/**/*.ts'],
+      entities: [User],
       migrations: ['src/migration/**/*.ts'],
       subscribers: ['src/subscriber/**/*.ts'],
-      cli: {
-        entitiesDir: 'src/entity',
-        migrationsDir: 'src/migration',
-        subscribersDir: 'src/subscriber',
-      },
     },
   };
 }
