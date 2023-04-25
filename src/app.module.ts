@@ -6,6 +6,8 @@ import { PreferenceModule } from './resource/preference/preference.module';
 import { SettingsModule } from './config/config.module';
 import { AuthModule } from './resource/auth/auth.module';
 import { AuthMiddleware } from './resource/auth/auth.middleware';
+import { RestaurantModule } from './resource/restaurant/restaurant.module';
+import { FoodModule } from './resource/food/food.module';
 
 @Module({
   imports: [
@@ -14,6 +16,8 @@ import { AuthMiddleware } from './resource/auth/auth.middleware';
     UserModule,
     PreferenceModule,
     AuthModule,
+    RestaurantModule,
+    FoodModule,
   ],
   controllers: [AppController],
   providers: [],

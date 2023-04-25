@@ -1,3 +1,5 @@
+import { Food } from 'src/entities/Food.entity';
+import { Restaurant } from 'src/entities/Restaurant.entity';
 import { User } from 'src/entities/User.entity';
 
 function getConfig() {
@@ -16,7 +18,7 @@ function getConfig() {
       database: process.env.DATABASE_NAME,
       synchronize: true,
       logging: false,
-      entities: [User],
+      entities: [User, Restaurant, Food],
       migrations: ['src/migration/**/*.ts'],
       subscribers: ['src/subscriber/**/*.ts'],
     },
