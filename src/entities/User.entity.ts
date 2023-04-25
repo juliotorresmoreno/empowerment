@@ -50,11 +50,18 @@ export class User {
   @DeleteDateColumn({ type: 'timestamptz' })
   deleted_at?: Date;
 
+  private encrypt(pwd: string) {
+    if (!pwd) return '';
+    return createHmac('sha256', pwd).digest('hex');
+  }
+
   @BeforeInsert()
   @BeforeUpdate()
   hashPassword() {
-    if (this.password) {
-      this.password = createHmac('sha256', this.password).digest('hex');
-    }
+    this.password = this.encrypt(this.password);
+  }
+
+  validatePassword(password: string) {
+    return this.password === this.encrypt(password);
   }
 }

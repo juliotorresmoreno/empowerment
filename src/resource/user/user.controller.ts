@@ -13,7 +13,7 @@ import { CreateUserDto } from './dto/create-user.dto';
 import { UpdateUserDto } from './dto/update-user.dto';
 import { JoiValidationPipe } from 'src/pipes/joi-validation/joi-validation.pipe';
 import { CreateUserSchema, UpdateUserSchema } from './validations/user.joi';
-import createHttpError from 'http-errors';
+import * as createHttpError from 'http-errors';
 
 @Controller('user')
 export class UserController {

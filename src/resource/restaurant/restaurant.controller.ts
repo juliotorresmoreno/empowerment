@@ -11,7 +11,7 @@ import {
 import { RestaurantService } from './restaurant.service';
 import { CreateRestaurantDto } from './dto/create-restaurant.dto';
 import { UpdateRestaurantDto } from './dto/update-restaurant.dto';
-import createHttpError from 'http-errors';
+import * as createHttpError from 'http-errors';
 import { JoiValidationPipe } from 'src/pipes/joi-validation/joi-validation.pipe';
 import { CreateRestaurantSchema } from './validations/restaurant.joi';
 

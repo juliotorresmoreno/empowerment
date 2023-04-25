@@ -1,5 +1,5 @@
 import { IncomingMessage } from 'http';
-import createHttpError from 'http-errors';
+import * as createHttpError from 'http-errors';
 import { RequestWithUserSession } from 'src/types/as';
 
 export function Authentication(): MethodDecorator {

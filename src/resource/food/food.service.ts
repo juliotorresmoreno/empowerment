@@ -5,7 +5,7 @@ import { Food } from 'src/entities/Food.entity';
 import { FindOptionsWhere, MongoRepository, ObjectLiteral } from 'typeorm';
 import { InjectRepository } from '@nestjs/typeorm';
 import { MongoBulkWriteError, ObjectId } from 'mongodb';
-import createHttpError from 'http-errors';
+import * as createHttpError from 'http-errors';
 
 @Injectable()
 export class FoodService {

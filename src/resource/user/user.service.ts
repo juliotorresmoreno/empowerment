@@ -9,7 +9,7 @@ import { MongoBulkWriteError, ObjectId } from 'mongodb';
 
 @Injectable()
 export class UserService {
-  private select: (keyof User)[] = [
+  public readonly select: (keyof User)[] = [
     'id',
     'first_name',
     'last_name',
@@ -53,10 +53,13 @@ export class UserService {
     return this.userRepository.find({ select: this.select, deleted_at: null });
   }
 
-  findOne(where: ObjectLiteral | FindOptionsWhere<User>) {
+  findOne(
+    where: ObjectLiteral | FindOptionsWhere<User>,
+    select: (keyof User)[] = this.select,
+  ) {
     return this.userRepository.findOne({
       where: { ...where, deleted_at: null },
-      select: this.select,
+      select: select,
     });
   }
 
