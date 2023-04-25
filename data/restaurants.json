@@ -1,0 +1,2571 @@
+[
+  {
+    "name": "La Trattoria del Nonno",
+    "description": "La Trattoria del Nonno es un restaurante italiano auténtico que ofrece platos tradicionales de la cocina de la Toscana. El ambiente es acogedor y familiar, con una decoración rústica y sencilla. El menú incluye pastas frescas, carnes y vinos de la región.",
+    "keywords": [
+      "comida italiana",
+      "Toscana",
+      "rústico",
+      "familiar",
+      "pastas frescas",
+      "carnes",
+      "vinos"
+    ],
+    "email": "latrattoriadelnonno@example.com",
+    "phone": "+1 (555) 123-4567",
+    "foods": [
+      [
+        {
+          "name": "Pasta alla Norma",
+          "description": "Pasta al dente en una salsa de tomate y berenjena frita, con albahaca y queso ricotta. Una deliciosa opción vegetariana.",
+          "keywords": [
+            "comida italiana",
+            "pastas frescas",
+            "Toscana",
+            "vegetariana"
+          ]
+        },
+        {
+          "name": "Bistecca alla Fiorentina",
+          "description": "Una jugosa chuleta de ternera a la parrilla, sazonada con sal y aceite de oliva. Se sirve con una guarnición de verduras asadas.",
+          "keywords": ["comida italiana", "carnes", "Toscana", "asado"]
+        },
+        {
+          "name": "Panna Cotta",
+          "description": "Un postre clásico de la cocina italiana, con una textura suave y cremosa. Se sirve con una salsa de frutas del bosque.",
+          "keywords": ["comida italiana", "Toscana", "postres", "crema"]
+        },
+        {
+          "name": "Risotto ai Funghi Porcini",
+          "description": "Un cremoso risotto con setas porcini, queso parmesano y un toque de vino blanco. Una delicia para los amantes de los hongos.",
+          "keywords": ["comida italiana", "Toscana", "arroz", "setas"]
+        },
+        {
+          "name": "Pollo alla Cacciatora",
+          "description": "Una sabrosa cazuela de pollo con tomate, aceitunas, cebolla y vino blanco. Se sirve con pasta fresca.",
+          "keywords": ["comida italiana", "Toscana", "carnes", "pollo"]
+        }
+      ]
+    ]
+  },
+  {
+    "name": "La Pizzeria da Mario",
+    "description": "La Pizzeria da Mario es una pizzería auténtica italiana que ofrece pizzas deliciosas y auténticas. El ambiente es informal y relajado, con una decoración sencilla y colorida. Además de las pizzas, el menú incluye ensaladas y postres italianos.",
+    "keywords": [
+      "comida italiana",
+      "pizzería",
+      "informal",
+      "delicioso",
+      "ensaladas",
+      "postres"
+    ],
+    "email": "lapizzeriadamario@example.com",
+    "phone": "+1 (555) 234-5678",
+    "foods": [
+      {
+        "name": "Pizza Margherita",
+        "description": "Pizza clásica de la región de Nápoles, hecha con tomate, mozzarella fresca y albahaca fresca.",
+        "keywords": ["comida italiana", "pizzería", "delicioso"]
+      },
+      {
+        "name": "Ensalada Caprese",
+        "description": "Ensalada fresca hecha con tomates, mozzarella fresca y hojas de albahaca.",
+        "keywords": ["comida italiana", "ensaladas"]
+      },
+      {
+        "name": "Tiramisú",
+        "description": "Postre italiano clásico hecho con capas de bizcocho empapado en café y crema de mascarpone.",
+        "keywords": ["comida italiana", "postres"]
+      },
+      {
+        "name": "Pizza Vegetariana",
+        "description": "Pizza hecha con una mezcla de verduras frescas de temporada y queso mozzarella.",
+        "keywords": ["comida italiana", "pizzería", "delicioso"]
+      },
+      {
+        "name": "Rúcula y Parmesano",
+        "description": "Pizza hecha con rúcula fresca, queso parmesano y tomates cherry.",
+        "keywords": ["comida italiana", "pizzería", "delicioso"]
+      }
+    ]
+  },
+  {
+    "name": "Osteria del Buongustaio",
+    "description": "Osteria del Buongustaio es un restaurante italiano auténtico que ofrece platos caseros y deliciosos de la cocina italiana. El ambiente es acogedor y familiar, con una decoración tradicional y cálida. El menú incluye pastas frescas, carnes y postres caseros.",
+    "keywords": [
+      "comida italiana",
+      "casera",
+      "familiar",
+      "pastas frescas",
+      "carnes",
+      "postres caseros"
+    ],
+    "email": "osteriadelbuongustaio@example.com",
+    "phone": "+1 (555) 345-6789",
+    "foods": [
+      {
+        "name": "Spaghetti alla carbonara",
+        "description": "Un clásico de la cocina italiana con espaguetis hechos en casa, panceta, huevo y queso pecorino romano. Una deliciosa opción para los amantes de las pastas frescas.",
+        "keywords": ["comida italiana", "casera", "pastas frescas"]
+      },
+      {
+        "name": "Pollo alla cacciatora",
+        "description": "Pollo guisado con tomates, aceitunas, ajo y romero. Un plato rústico y reconfortante perfecto para los días fríos.",
+        "keywords": ["comida italiana", "casera", "carnes"]
+      },
+      {
+        "name": "Tiramisù",
+        "description": "El postre casero por excelencia de la cocina italiana. Capas de bizcochos empapados en café, mascarpone y cacao en polvo. ¡Una delicia!",
+        "keywords": ["comida italiana", "casera", "postres caseros"]
+      },
+      {
+        "name": "Lasagna alla bolognese",
+        "description": "Una lasaña clásica con carne de res y salsa boloñesa, capas de pasta fresca y bechamel. ¡Un plato para chuparse los dedos!",
+        "keywords": ["comida italiana", "casera", "pastas frescas", "carnes"]
+      },
+      {
+        "name": "Ravioli di zucca",
+        "description": "Raviolis caseros rellenos de calabaza, amaretti, y queso parmesano, servidos con una salsa de mantequilla y salvia. Una opción vegetariana pero muy sabrosa.",
+        "keywords": ["comida italiana", "casera", "pastas frescas"]
+      }
+    ]
+  },
+  {
+    "name": "Trattoria al Mare",
+    "description": "Trattoria al Mare es un restaurante de comida italiana ubicado en la costa que ofrece platos de mariscos frescos y auténticos de la región de Liguria. El ambiente es informal y relajado, con una decoración típica de las trattorias costeras. Además de los mariscos, el menú incluye pastas frescas y ensaladas.",
+    "keywords": [
+      "comida italiana",
+      "mariscos",
+      "Liguria",
+      "informal",
+      "relajado",
+      "pastas frescas",
+      "ensaladas"
+    ],
+    "email": "trattoriaalmare@example.com",
+    "phone": "+1 (555) 456-7890",
+    "foods": [
+      {
+        "name": "Lasagne",
+        "description": "Lasagne cocinadas al estilo tradicional italiano con carne molida, salsa bolognese y queso mozzarella.",
+        "keywords": ["comida italiana", "pastas frescas", "carnes"]
+      },
+      {
+        "name": "Risotto",
+        "description": "Un plato de arroz al estilo italiano, hecho con vino blanco, cebolla, queso parmesano y champiñones.",
+        "keywords": ["comida italiana", "casera", "pastas frescas"]
+      },
+      {
+        "name": "Pizza Margarita",
+        "description": "Una deliciosa pizza de masa fina horneada en un horno de leña con tomate fresco, mozzarella, albahaca y aceite de oliva.",
+        "keywords": ["comida italiana", "casera", "pastas frescas"]
+      },
+      {
+        "name": "Tiramisú",
+        "description": "Un postre tradicional italiano a base de café, queso mascarpone, huevos y galletas Maria.",
+        "keywords": ["postres caseros", "comida italiana", "casera"]
+      },
+      {
+        "name": "Pollo alla Parmigiana",
+        "description": "Pollo rebozado con parmesano y albahaca, horneado con salsa de tomate y mozzarella.",
+        "keywords": ["comida italiana", "carnes", "casera"]
+      }
+    ]
+  },
+  {
+    "name": "La Piazza",
+    "description": "Restaurante de comida italiana con un ambiente acogedor y platos tradicionales como la pizza margarita y la pasta alla carbonara.",
+    "keywords": ["comida italiana", "pizza", "pasta", "ambiente acogedor"],
+    "email": "lapiazza@example.com",
+    "phone": "+1-555-123-4567",
+    "foods": [
+      {
+        "name": "Pizza Margarita",
+        "description": "Deliciosa pizza con una salsa de tomates con queso Mozzarella, albahaca y aceite de oliva.",
+        "keywords": [
+          "pizza",
+          "mozzarella",
+          "salsa de tomate",
+          "albahaca",
+          "aceite de oliva"
+        ]
+      },
+      {
+        "name": "Pasta alla Carbonara",
+        "description": "Deliciosa pasta con guanciale, huevos, pecorino y pimienta negra.",
+        "keywords": [
+          "pasta",
+          "guanciale",
+          "huevos",
+          "pecorino",
+          "pimienta negra"
+        ]
+      },
+      {
+        "name": "Pollo al Limone",
+        "description": "Delicioso pollo con jugo de limón, vino blanco y hierbas italianas.",
+        "keywords": ["pollo", "limón", "vino", "hierbas italianas"]
+      },
+      {
+        "name": "Risotto",
+        "description": "Delicioso risotto con cebolla, vino tinto, mantequilla y parmesano.",
+        "keywords": [
+          "risotto",
+          "cebolla",
+          "vino tinto",
+          "mantequilla",
+          "parmesano"
+        ]
+      },
+      {
+        "name": "Gnocchi al Pesto",
+        "description": "Deliciosos gnocchi con una salsa de albahaca, piñones, aceite de oliva y queso ricotta.",
+        "keywords": [
+          "gnocchi",
+          "albahaca",
+          "piñones",
+          "aceite de oliva",
+          "ricotta"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Il Buco",
+    "description": "Restaurante italiano de alta gama con una amplia selección de vinos y platos de mariscos frescos y pasta artesanal.",
+    "keywords": ["comida italiana", "alta gama", "vino", "mariscos frescos"],
+    "email": "ilbuco@example.com",
+    "phone": "+1-555-987-6543",
+    "foods": [
+      {
+        "name": "Pasta fresca con vongole",
+        "description": "Pasta artesanal con almejas vongole, con salsa de vino blanco y ajo",
+        "keywords": ["mariscos frescos", "vino"]
+      },
+      {
+        "name": "Filete de salmón",
+        "description": "Filete de salmón con salsa de vino blanco y champiñones frescos",
+        "keywords": ["mariscos frescos", "vino"]
+      },
+      {
+        "name": "Ravioles con salsa de nuez",
+        "description": "Ravioles con salsa de nuez y setas, acompañado de queso parmesano",
+        "keywords": ["pasta italiana", "alta gama"]
+      },
+      {
+        "name": "Gnocchi a la boloñesa",
+        "description": "Gnocchi con salsa boloñesa hecha con carne, tomate y cuatro quesos",
+        "keywords": ["pasta italiana", "alta gama"]
+      },
+      {
+        "name": "Risotto con trufa",
+        "description": "Risotto con salsa de trufa negra, acompañado de parmesano, aceite de oliva y setas",
+        "keywords": ["pasta italiana", "alta gama"]
+      }
+    ]
+  },
+  {
+    "name": "Sushi Go",
+    "description": "Restaurante de sushi con opciones clásicas como el nigiri de salmón y el rollo California, así como creaciones únicas de la casa como el rollo Volcánico con tempura de camarones.",
+    "keywords": [
+      "comida japonesa",
+      "sushi",
+      "nigiri",
+      "rollo California",
+      "tempura de camarones"
+    ],
+    "email": "sushigo@example.com",
+    "phone": "+1-555-123-4567",
+    "foods": [
+      {
+        "name": "Rollo Volcánico",
+        "description": "Un rollo con tempura de camarones cubierto con queso y salsa especial.",
+        "keywords": ["tempura de camarones", "queso", "salsa especial"]
+      },
+      {
+        "name": "Nigiri de Salmón",
+        "description": "Un delicioso nigiri con salmón fresco y arroz de grano corto.",
+        "keywords": ["salmón", "arroz"]
+      },
+      {
+        "name": "Rollo California",
+        "description": "Un classic rollo con aguacate, cangrejo y queso.",
+        "keywords": ["aguacate", "cangrejo", "queso"]
+      },
+      {
+        "name": "Sashimi de Aleta de Tiburón",
+        "description": "Un plato de sashimi con cortes finos de aleta de tiburón.",
+        "keywords": ["sashimi", "aleta de tiburón"]
+      },
+      {
+        "name": "Uramaki de Camarones",
+        "description": "Un rollo de lasaña con camarones dentro, cubierto con una mezcla de algas y semillas de sésamo.",
+        "keywords": ["camarones", "mezcla de algas", "semilla de sésamo"]
+      }
+    ]
+  },
+  {
+    "name": "Ramen Ya",
+    "description": "Restaurante especializado en ramen con opciones como el ramen de cerdo tonkotsu y el ramen de pollo shoyu, así como aperitivos como los gyozas y el edamame.",
+    "keywords": [
+      "comida japonesa",
+      "ramen",
+      "tonkotsu",
+      "shoyu",
+      "gyozas",
+      "edamame"
+    ],
+    "email": "ramenya@example.com",
+    "phone": "+1-555-987-6543",
+    "foods": [
+      {
+        "name": "Cerdo Tonkotsu Ramen",
+        "description": "Un plato clásico de ramen con cerdo tonkotsu, cebolla caramelizada, verduras frescas, huevo y narutomaki",
+        "keywords": [
+          "ramen",
+          "tonkotsu",
+          "cerdo",
+          "cebolla caramelizada",
+          "verduras frescas",
+          "huevo",
+          "narutomaki"
+        ]
+      },
+      {
+        "name": "Pollo Shoyu Ramen",
+        "description": "Un plato de ramen con pollo shoyu, cebolla caramelizada, verduras frescas, huevo y narutomaki",
+        "keywords": [
+          "ramen",
+          "shoyu",
+          "pollo",
+          "cebolla caramelizada",
+          "verduras frescas",
+          "huevo",
+          "narutomaki"
+        ]
+      },
+      {
+        "name": "Gyozas",
+        "description": "Un delicioso aperitivo de empanadillas de carne de cerdo y cebolla",
+        "keywords": ["gyozas", "carne de cerdo", "cebolla", "aperitivo"]
+      },
+      {
+        "name": "Edamame",
+        "description": "Un aperitivo vegetariano de judías verdes salteadas con ajo y aceite de sésamo",
+        "keywords": [
+          "edamame",
+          "judías verdes",
+          "ajo",
+          "aceite de sésamo",
+          "aperitivo",
+          "vegetariano"
+        ]
+      },
+      {
+        "name": "Ramen de Hongos y Espinacas",
+        "description": "Un plato de ramen vegetariano con hongos, espinacas, huevo y narutomaki",
+        "keywords": [
+          "ramen",
+          "hongos",
+          "espinacas",
+          "huevo",
+          "narutomaki",
+          "vegetariano"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Teppanyaki Grill",
+    "description": "Restaurante de comida japonesa con opciones de teppanyaki, incluyendo carne, mariscos y vegetales preparados en la parrilla frente a ti por los chefs habilidosos.",
+    "keywords": [
+      "comida japonesa",
+      "teppanyaki",
+      "carne",
+      "mariscos",
+      "vegetales"
+    ],
+    "email": "teppanyakigrill@example.com",
+    "phone": "+1-555-555-5555",
+    "foods": [
+      {
+        "name": "Sushi de salmón",
+        "description": "Un delicioso sushi de salmón envuelto en alga nori con arroz y salsa.",
+        "keywords": ["comida japonesa", "sushi", "salmón"]
+      },
+      {
+        "name": "Rollo de teppanyaki de carne",
+        "description": "Carne de ternera, berenjena y pimientos; especias y algas envueltos en un rollo de arroz.",
+        "keywords": ["comida japonesa", "teppanyaki", "carne", "vegetales"]
+      },
+      {
+        "name": "Tiradito de atún",
+        "description": "Filetes de atún frescos marinados en soja, limón y aceite de sésamo.",
+        "keywords": ["comida japonesa", "tiradito", "atún"]
+      },
+      {
+        "name": "Tempura de camarones",
+        "description": "Camarones envueltos en una masa frita crujiente con hierbas y especias.",
+        "keywords": ["comida japonesa", "tempura", "mariscos"]
+      },
+      {
+        "name": "Okonomiyaki",
+        "description": "Una tortilla de verduras, carne y huevos al estilo japonés con salsa de cebolla y mayonesa.",
+        "keywords": ["comida japonesa", "okonomiyaki", "carne", "vegetales"]
+      }
+    ]
+  },
+  {
+    "name": "Mochi Sushi",
+    "description": "Restaurante de comida japonesa que sirve una variedad de sushi y postres de mochi. Destacan su nigiri de atún y el rollo Dragón con tempura de langostino y aguacate.",
+    "keywords": [
+      "comida japonesa",
+      "sushi",
+      "nigiri",
+      "tempura de langostino",
+      "mochi"
+    ],
+    "email": "mochisushi@example.com",
+    "phone": "+1-555-777-8888",
+    "foods": [
+      {
+        "name": "Sushi Dragón",
+        "description": "Rollo de sushi con tempura de langostino y aguacate.",
+        "keywords": ["sushi", "tempura de langostino", "aguacate"]
+      },
+      {
+        "name": "Nigiri de Atún",
+        "description": "Filetes de atún marinados con arroz de sushi.",
+        "keywords": ["nigiri", "atún", "arroz de sushi"]
+      },
+      {
+        "name": "Muslo de Pollo Tempurizado",
+        "description": "Muslo de pollo empanizado con una mezcla de harina japonesa, pan rallado y hierbas.",
+        "keywords": ["tempurizado", "muslo de pollo", "harina japonesa"]
+      },
+      {
+        "name": "Yakisoba",
+        "description": "Sopa de fideos japoneses con verduras y carne.",
+        "keywords": ["fideos japoneses", "verduras", "carne"]
+      },
+      {
+        "name": "Mochi de Fresa",
+        "description": "Postre japonés hecho de arroz al vapor con relleno de fresa.",
+        "keywords": ["postre japonés", "mochi", "fresa"]
+      }
+    ]
+  },
+  {
+    "name": "Izakaya Yokocho",
+    "description": "Restaurante estilo izakaya que ofrece platillos japoneses tradicionales, como el takoyaki, el okonomiyaki y el yakitori, acompañados de una selección de bebidas japonesas.",
+    "keywords": [
+      "comida japonesa",
+      "izakaya",
+      "takoyaki",
+      "okonomiyaki",
+      "yakitori",
+      "bebidas japonesas"
+    ],
+    "email": "izakayayokocho@example.com",
+    "phone": "+1-555-444-3333",
+    "foods": [
+      {
+        "name": "Takoyaki",
+        "description": "Pelotitas hechas con harina, rellenas de pulpo y aderezadas con salsa especial de takoyaki y mayonesa.",
+        "keywords": ["comida japonesa", "takoyaki"]
+      },
+      {
+        "name": "Okonomiyaki",
+        "description": "Panqueque japonés con sabores variados que se prepara con harina de trigo, repollo, carne y una variedad de verduras.",
+        "keywords": ["comida japonesa", "okonomiyaki"]
+      },
+      {
+        "name": "Yakitori",
+        "description": "Pinchos de pollo cocinados con salsa teriyaki.",
+        "keywords": ["comida japonesa", "yakitori"]
+      },
+      {
+        "name": "Sashimi",
+        "description": "Plato típico japonés que consiste en lonjas de pescado crudo servidas con una variedad de salsas y condimentos.",
+        "keywords": ["comida japonesa", "sashimi"]
+      },
+      {
+        "name": "Udon",
+        "description": "Un tipo de sopa japonesa, con fideos de trigo y una variedad de ingredientes como carne, camarones, verduras y otras especias.",
+        "keywords": ["comida japonesa", "udon"]
+      }
+    ]
+  },
+  {
+    "name": "Burger Station",
+    "description": "Restaurante de comida rápida especializado en hamburguesas hechas a la parrilla con carne de res 100% Angus. También ofrecen opciones vegetarianas y de pollo, así como papas fritas y malteadas.",
+    "keywords": [
+      "comida rápida",
+      "hamburguesas",
+      "carne de res Angus",
+      "opciones vegetarianas",
+      "papas fritas",
+      "malteadas"
+    ],
+    "email": "burgerstation@example.com",
+    "phone": "+1-555-123-4567",
+    "foods": [
+      {
+        "name": "Hamburguesa Ranchera",
+        "description": "Hamburguesa con queso cheddar, tocino, cebolla caramelizada, tomate y mayonesa.",
+        "keywords": [
+          "hamburguesas",
+          "carne de res Angus",
+          "queso cheddar",
+          "tocino",
+          "cebolla caramelizada",
+          "tomate",
+          "mayonesa"
+        ]
+      },
+      {
+        "name": "Croqueta Vegetariana",
+        "description": "Croqueta de espinacas y queso feta acompañada con salsa tzatziki.",
+        "keywords": [
+          "opciones vegetarianas",
+          "croquetas",
+          "espinacas",
+          "queso feta",
+          "salsa tzatziki"
+        ]
+      },
+      {
+        "name": "Papas Fritas a la Cebolla",
+        "description": "Papas fritas espolvoreadas con cebolla y cilantro.",
+        "keywords": ["papas fritas", "cebolla", "cilantro"]
+      },
+      {
+        "name": "Malteada de Oreo",
+        "description": "Malteada de vainilla y galletas Oreo trituradas.",
+        "keywords": ["malteadas", "vainilla", "galletas Oreo"]
+      },
+      {
+        "name": "Hamburguesa con Queso",
+        "description": "Hamburguesa con queso cheddar y salsa especial.",
+        "keywords": [
+          "hamburguesas",
+          "carne de res Angus",
+          "queso cheddar",
+          "salsa especial"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Taco Truck",
+    "description": "Restaurante móvil de comida rápida que sirve tacos de carne asada, al pastor, pollo y más, así como burritos y quesadillas. También ofrecen salsas caseras y bebidas refrescantes.",
+    "keywords": [
+      "comida rápida",
+      "tacos",
+      "carne asada",
+      "al pastor",
+      "pollo",
+      "burritos",
+      "quesadillas",
+      "salsas caseras",
+      "bebidas refrescantes"
+    ],
+    "email": "tacotruck@example.com",
+    "phone": "+1-555-987-6543",
+    "foods": [
+      {
+        "name": "Taco de carne asada",
+        "description": "Taco de carne asada con cebolla, cilantro y salsa.",
+        "keywords": ["tacos", "carne asada", "cebolla", "cilantro", "salsa"]
+      },
+      {
+        "name": "Taco de al pastor",
+        "description": "Taco de al pastor con piña, cebolla y salsa.",
+        "keywords": ["tacos", "al pastor", "piña", "cebolla", "salsa"]
+      },
+      {
+        "name": "Taco de pollo",
+        "description": "Taco de pollo con aguacate, jitomate y salsa.",
+        "keywords": ["tacos", "pollo", "aguacate", "jitomate", "salsa"]
+      },
+      {
+        "name": "Burrito de carne asada",
+        "description": "Burrito de carne asada con frijol, queso y salsa.",
+        "keywords": ["burritos", "carne asada", "frijol", "queso", "salsa"]
+      },
+      {
+        "name": "Quesadilla de pollo",
+        "description": "Quesadilla de pollo con queso, aguacate y salsa.",
+        "keywords": ["quesadillas", "pollo", "queso", "aguacate", "salsa"]
+      }
+    ]
+  },
+  {
+    "name": "Pizza Express",
+    "description": "Restaurante de comida rápida que sirve pizza al horno de leña y ensaladas frescas. Ofrecen una variedad de ingredientes para personalizar tu pizza, desde pepperoni y salchicha italiana hasta champiñones y aceitunas.",
+    "keywords": [
+      "comida rápida",
+      "pizza",
+      "ensaladas",
+      "horno de leña",
+      "ingredientes personalizados",
+      "pepperoni",
+      "salchicha italiana",
+      "champiñones",
+      "aceitunas"
+    ],
+    "email": "pizzaexpress@example.com",
+    "phone": "+1-555-555-5555",
+    "foods": [
+      {
+        "name": "Pizza de pepperoni",
+        "description": "Deliciosa pizza de pepperoni recién horneada con nuestra masa de sabor único.",
+        "keywords": ["pizza", "horno de leña", "pepperoni"]
+      },
+      {
+        "name": "Ensalada César",
+        "description": "Deliciosa ensalada fresca con lechuga romana y crujiente pollo, acompañada de nuestro aderezo especial.",
+        "keywords": ["ensaladas", "aderezo", "pollo"]
+      },
+      {
+        "name": "Pizza de queso",
+        "description": "Una pizza de queso clásica horneada con nuestra masa de sabor único y cubierta con cheddar y mozzarella.",
+        "keywords": ["pizza", "horno de leña", "queso"]
+      },
+      {
+        "name": "Ensalada Caprese",
+        "description": "Una ensalada típica italiana con tomates frescos, mozzarella y albahaca acompañada en nuestra vinagreta.",
+        "keywords": ["ensaladas", "vinagreta", "albahaca"]
+      },
+      {
+        "name": "Pizza personalizada",
+        "description": "Crea la pizza de tus sueños con nuestra variada selección de topping frescos.",
+        "keywords": ["pizza", "horno de leña", "ingredientes personalizados"]
+      }
+    ]
+  },
+  {
+    "name": "Chicken Shack",
+    "description": "Restaurante de comida rápida que ofrece pollo frito crujiente y jugoso, acompañado de papas fritas y salsas caseras. También tienen opciones de ensaladas y sándwiches de pollo.",
+    "keywords": [
+      "comida rápida",
+      "pollo frito",
+      "papas fritas",
+      "salsas caseras",
+      "ensaladas",
+      "sándwiches de pollo"
+    ],
+    "email": "chickenshack@example.com",
+    "phone": "+1-555-777-8888",
+    "foods": [
+      {
+        "name": "Pollo frito crujiente",
+        "description": "Jugoso pollo frito en nuestro clásico rebozado crujiente. Servido con papas fritas y salsa casera.",
+        "keywords": ["pollo frito", "papas fritas", "salsas caseras"]
+      },
+      {
+        "name": "Ensalada de pollo",
+        "description": "Ensalada fresca con tiernos trozos de pollo a la parrilla. Aderezada con nuestra deliciosa vinagreta casera.",
+        "keywords": ["ensaladas", "sándwiches de pollo"]
+      },
+      {
+        "name": "Sándwich de pollo clásico",
+        "description": "Nuestro sándwich de pollo más popular, con tiernas pechugas de pollo empanizadas y lechuga fresca. Servido con papas fritas.",
+        "keywords": [
+          "comida rápida",
+          "sándwiches de pollo",
+          "pollo frito",
+          "papas fritas"
+        ]
+      },
+      {
+        "name": "Tiras de pollo crujientes",
+        "description": "Tiras de pollo empanizadas y fritas a la perfección. Servidas con nuestra salsa especial.",
+        "keywords": ["pollo frito", "comida rápida", "salsas caseras"]
+      },
+      {
+        "name": "Sándwich de pollo a la parrilla",
+        "description": "Un sándwich de pollo más ligero, con tiernas pechugas de pollo a la parrilla y verduras frescas. Servido con una guarnición de ensalada.",
+        "keywords": ["sándwiches de pollo", "ensaladas"]
+      }
+    ]
+  },
+  {
+    "name": "Subs & Wraps",
+    "description": "Restaurante de comida rápida que sirve subs y wraps frescos y deliciosos, hechos con ingredientes de calidad y una variedad de salsas y aderezos. También ofrecen opciones vegetarianas y veganas.",
+    "keywords": [
+      "comida rápida",
+      "subs",
+      "wraps",
+      "ingredientes de calidad",
+      "salsas y aderezos",
+      "opciones vegetarianas",
+      "opciones veganas"
+    ],
+    "email": "subsandwraps@example.com",
+    "phone": "+1-555-444-3333",
+    "foods": [
+      {
+        "name": "Sub de carne y queso",
+        "description": "Nuestro sub clásico, con tiernas rebanadas de roast beef, queso cheddar fundido, lechuga y tomate frescos. Servido con tu elección de salsas y aderezos.",
+        "keywords": [
+          "comida rápida",
+          "subs",
+          "ingredientes de calidad",
+          "salsas y aderezos"
+        ]
+      },
+      {
+        "name": "Wrap de pollo a la parrilla",
+        "description": "Wrap suave y caliente relleno de tiernas tiras de pollo a la parrilla, verduras frescas y aderezo ranch. Una opción más ligera y saludable.",
+        "keywords": [
+          "wraps",
+          "opciones vegetarianas",
+          "opciones veganas",
+          "ingredientes de calidad"
+        ]
+      },
+      {
+        "name": "Sub vegetariano",
+        "description": "Sub relleno de lechuga, tomate, cebolla, pimiento verde y champiñones frescos. Aderezado con tu elección de salsas y aderezos.",
+        "keywords": [
+          "subs",
+          "opciones vegetarianas",
+          "ingredientes de calidad",
+          "salsas y aderezos"
+        ]
+      },
+      {
+        "name": "Wrap de falafel",
+        "description": "Wrap de pita relleno de croquetas de falafel, lechuga, tomate y cebolla. Aderezado con hummus y tu elección de salsas y aderezos.",
+        "keywords": [
+          "wraps",
+          "opciones vegetarianas",
+          "opciones veganas",
+          "ingredientes de calidad",
+          "salsas y aderezos"
+        ]
+      },
+      {
+        "name": "Sub de pavo y aguacate",
+        "description": "Sub relleno de tiernas rebanadas de pavo, aguacate fresco, lechuga y tomate. Aderezado con mayonesa y mostaza.",
+        "keywords": [
+          "subs",
+          "ingredientes de calidad",
+          "opciones vegetarianas",
+          "salsas y aderezos"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Taquería El Pastor",
+    "description": "Restaurante de comida mexicana que sirve tacos al pastor, quesadillas, tamales y otros platillos típicos de la gastronomía mexicana. Todos los ingredientes son frescos y de alta calidad.",
+    "keywords": [
+      "comida mexicana",
+      "tacos al pastor",
+      "quesadillas",
+      "tamales",
+      "gastronomía mexicana",
+      "ingredientes frescos",
+      "alta calidad"
+    ],
+    "email": "taqueriaelpastor@example.com",
+    "phone": "+1-555-123-4567",
+    "foods": [
+      {
+        "name": "Tacos al Pastor",
+        "description": "Tacos tradicionales mexicanos rellenos de carne al pastor, cebolla, cilantro y piña. Servidos en tortillas de maíz recién hechas.",
+        "keywords": [
+          "comida mexicana",
+          "tacos al pastor",
+          "gastronomía mexicana",
+          "ingredientes frescos",
+          "alta calidad"
+        ]
+      },
+      {
+        "name": "Quesadilla de Chorizo",
+        "description": "Quesadilla rellena de chorizo mexicano, queso derretido y cebolla. Servida con guacamole y salsa.",
+        "keywords": [
+          "quesadillas",
+          "gastronomía mexicana",
+          "ingredientes frescos",
+          "alta calidad"
+        ]
+      },
+      {
+        "name": "Tamales de Pollo",
+        "description": "Tamales mexicanos rellenos de pollo desmenuzado y salsa verde. Envueltos en hojas de maíz y cocidos al vapor.",
+        "keywords": [
+          "tamales",
+          "gastronomía mexicana",
+          "ingredientes frescos",
+          "alta calidad"
+        ]
+      },
+      {
+        "name": "Burrito de Frijoles",
+        "description": "Burrito de harina relleno de frijoles refritos, arroz, lechuga, tomate y queso. Servido con salsa y crema agria.",
+        "keywords": [
+          "comida mexicana",
+          "gastronomía mexicana",
+          "ingredientes frescos",
+          "alta calidad"
+        ]
+      },
+      {
+        "name": "Enchiladas de Queso",
+        "description": "Enchiladas de tortilla de maíz rellenas de queso y bañadas en salsa de chile rojo. Servidas con crema agria y guacamole.",
+        "keywords": [
+          "comida mexicana",
+          "gastronomía mexicana",
+          "quesadillas",
+          "ingredientes frescos",
+          "alta calidad"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "La Cocina de Doña María",
+    "description": "Restaurante de comida mexicana tradicional, donde se preparan platillos como chiles rellenos, mole, pozole y otros platillos típicos del país. El ambiente es acogedor y el servicio es excelente.",
+    "keywords": [
+      "comida mexicana",
+      "comida tradicional",
+      "chiles rellenos",
+      "mole",
+      "pozole",
+      "platillos típicos",
+      "ambiente acogedor",
+      "servicio excelente"
+    ],
+    "email": "lacocinadedonamaria@example.com",
+    "phone": "+1-555-987-6543",
+    "foods": [
+      {
+        "name": "Chiles Rellenos",
+        "description": "Pimientos rellenos de queso y carne, bañados en una salsa picante.",
+        "keywords": ["chiles rellenos", "queso", "carne", "salsa picante"]
+      },
+      {
+        "name": "Mole",
+        "description": "Carne con mole poblano, una mezcla de chiles tradicional muy sabrosa.",
+        "keywords": ["mole", "carne", "chiles", "mezcla tradicional"]
+      },
+      {
+        "name": "Pozole",
+        "description": "Sopa hecha con maíz molido y carne de cerdo en una sopa especiada.",
+        "keywords": [
+          "pozole",
+          "maíz molido",
+          "carne de cerdo",
+          "sopa especiada"
+        ]
+      },
+      {
+        "name": "Enchiladas",
+        "description": "Tortillas de maíz rellenas de carne y bañadas en una salsa picante.",
+        "keywords": [
+          "enchiladas",
+          "tortillas de maíz",
+          "carne",
+          "salsa picante"
+        ]
+      },
+      {
+        "name": "Chicharrones",
+        "description": "Trozos de piel de cerdo frita crujiente y servida con salsa picante.",
+        "keywords": ["chicharrones", "piel de cerdo", "frita", "salsa picante"]
+      }
+    ]
+  },
+  {
+    "name": "El Charro Negro",
+    "description": "Restaurante de comida mexicana que sirve platillos típicos de diferentes regiones del país, como cochinita pibil, chiles en nogada, ceviche y más. También ofrecen una amplia selección de tequilas y mezcales.",
+    "keywords": [
+      "comida mexicana",
+      "platillos típicos",
+      "cochinita pibil",
+      "chiles en nogada",
+      "ceviche",
+      "tequilas",
+      "mezcales"
+    ],
+    "email": "elcharronegro@example.com",
+    "phone": "+1-555-555-5555",
+    "foods": [
+      {
+        "name": "Cochinita pibil",
+        "description": "Platillo típico de la región de Yucatán, que consiste en carne de cerdo marinada con achiote y cocida en un horno bajo tierra. Se sirve con tortillas y cebolla encurtida.",
+        "keywords": [
+          "comida mexicana",
+          "platillos típicos",
+          "cochinita pibil",
+          "tortillas",
+          "cebolla encurtida"
+        ]
+      },
+      {
+        "name": "Chiles en nogada",
+        "description": "Platillo típico de la región de Puebla, que consiste en chiles poblanos rellenos de carne y frutas, cubiertos con una salsa de nuez y granada. Se sirve frío y es un platillo típico de temporada.",
+        "keywords": [
+          "comida mexicana",
+          "platillos típicos",
+          "chiles en nogada",
+          "salsa de nuez",
+          "granada",
+          "platillo de temporada"
+        ]
+      },
+      {
+        "name": "Ceviche",
+        "description": "Platillo de origen peruano, que consiste en pescado o mariscos marinados en jugo de limón, cilantro y otros ingredientes. Se sirve frío y es una excelente opción para los días calurosos.",
+        "keywords": [
+          "comida mexicana",
+          "ceviche",
+          "pescado",
+          "mariscos",
+          "jugo de limón",
+          "cilantro",
+          "opción fría"
+        ]
+      },
+      {
+        "name": "Tacos al pastor",
+        "description": "Platillo típico de la Ciudad de México, que consiste en carne de cerdo marinada con achiote y chiles, cocida en un trompo y servida en tortillas de maíz con cebolla, cilantro y piña.",
+        "keywords": [
+          "comida mexicana",
+          "platillos típicos",
+          "tacos al pastor",
+          "carne de cerdo",
+          "trompo",
+          "tortillas de maíz",
+          "cebolla",
+          "cilantro",
+          "piña"
+        ]
+      },
+      {
+        "name": "Mezcal sour",
+        "description": "Bebida alcohólica preparada con mezcal, jugo de limón, jarabe de agave y clara de huevo. Se sirve en un vaso corto con hielo y es una opción refrescante para acompañar los platillos del restaurante.",
+        "keywords": [
+          "comida mexicana",
+          "bebidas",
+          "mezcal",
+          "limón",
+          "jarabe de agave",
+          "clara de huevo",
+          "opción refrescante"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "El Fogón de la Abuela",
+    "description": "Restaurante de comida mexicana que ofrece platillos caseros, como sopes, enchiladas, chilaquiles y más, preparados con recetas tradicionales transmitidas de generación en generación. También cuentan con una selección de postres y bebidas típicas.",
+    "keywords": [
+      "comida mexicana",
+      "platillos caseros",
+      "sopes",
+      "enchiladas",
+      "chilaquiles",
+      "recetas tradicionales",
+      "postres",
+      "bebidas típicas"
+    ],
+    "email": "elfogon@example.com",
+    "phone": "+1-555-222-3333",
+    "foods": [
+      {
+        "name": "Enchiladas Verdes",
+        "description": "Tortillas rellenas de pollo deshebrado, bañadas en salsa verde y acompañadas de crema, queso y aguacate.",
+        "keywords": [
+          "comida mexicana",
+          "enchiladas",
+          "pollo deshebrado",
+          "salsa verde",
+          "crema",
+          "queso",
+          "aguacate"
+        ]
+      },
+      {
+        "name": "Sopes de Chorizo",
+        "description": "Tortillas fritas y cubiertas de frijoles, chorizo, lechuga, queso y crema.",
+        "keywords": [
+          "comida mexicana",
+          "sopes",
+          "chorizo",
+          "frijoles",
+          "lechuga",
+          "queso",
+          "crema"
+        ]
+      },
+      {
+        "name": "Chilaquiles Rojos",
+        "description": "Totopos de maíz cubiertos con salsa de chile rojo, queso y crema, acompañados de frijoles refritos y huevo al gusto.",
+        "keywords": [
+          "comida mexicana",
+          "chilaquiles",
+          "salsa de chile rojo",
+          "queso",
+          "crema",
+          "frijoles refritos",
+          "huevo"
+        ]
+      },
+      {
+        "name": "Pozole Blanco",
+        "description": "Caldo de maíz con carne de cerdo, cebolla, lechuga, rábano y chile, servido con tostadas y limón.",
+        "keywords": [
+          "comida mexicana",
+          "pozole",
+          "caldo de maíz",
+          "carne de cerdo",
+          "cebolla",
+          "lechuga",
+          "rábano",
+          "chile",
+          "limón",
+          "tostadas"
+        ]
+      },
+      {
+        "name": "Tamales Dulces",
+        "description": "Tamales de masa con relleno de piloncillo y canela, envueltos en hojas de maíz.",
+        "keywords": [
+          "comida mexicana",
+          "tamales",
+          "masa",
+          "piloncillo",
+          "canela",
+          "hojas de maíz"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "La Taquería de Don Juan",
+    "description": "Restaurante de comida mexicana que se especializa en tacos de varios tipos, desde los clásicos de carne asada hasta opciones vegetarianas y veganas. También ofrecen otros platillos típicos de la gastronomía mexicana y una variedad de salsas caseras.",
+    "keywords": [
+      "comida mexicana",
+      "tacos",
+      "carne asada",
+      "opciones vegetarianas",
+      "opciones veganas",
+      "gastronomía mexicana",
+      "salsas caseras"
+    ],
+    "email": "lataqueriadedonjuan@example.com",
+    "phone": "+1-555-777-9999",
+    "foods": [
+      {
+        "name": "Tacos de carne asada",
+        "description": "Deliciosos tacos con carne asada, cebolla y cilantro. Acompañados con salsa de tomate y guacamole.",
+        "keywords": ["tacos", "carne asada", "salsas caseras"]
+      },
+      {
+        "name": "Tostadas de frijoles",
+        "description": "Tostadas crujientes con frijoles refritos, lechuga, crema y queso. Una opción vegetariana y deliciosa.",
+        "keywords": ["comida mexicana", "tostadas", "opciones vegetarianas"]
+      },
+      {
+        "name": "Enchiladas verdes",
+        "description": "Tortillas de maíz rellenas de pollo deshebrado y cubiertas con una salsa verde picante. Acompañadas de arroz y frijoles.",
+        "keywords": ["enchiladas", "comida mexicana", "gastronomía mexicana"]
+      },
+      {
+        "name": "Tacos veganos de champiñones",
+        "description": "Tacos con champiñones salteados, cebolla y pimiento. Acompañados con salsa de chile y guacamole.",
+        "keywords": ["tacos", "opciones veganas", "salsas caseras"]
+      },
+      {
+        "name": "Chiles en nogada",
+        "description": "Plato típico de la gastronomía mexicana. Chiles poblanos rellenos de carne molida, frutas y especias. Cubiertos con una salsa de nuez y granada.",
+        "keywords": ["comida mexicana", "gastronomía mexicana", "chiles"]
+      }
+    ]
+  },
+  {
+    "name": "Le Jardin",
+    "description": "Restaurante de comida gourmet que ofrece una experiencia culinaria sofisticada y refinada. El menú cambia con frecuencia para incorporar ingredientes de temporada y técnicas culinarias innovadoras. Los platos se presentan con elegancia y se pueden acompañar con vinos selectos de la bodega del restaurante.",
+    "keywords": [
+      "comida gourmet",
+      "experiencia culinaria",
+      "refinada",
+      "ingredientes de temporada",
+      "técnicas culinarias innovadoras",
+      "presentación elegante",
+      "vinos selectos"
+    ],
+    "email": "lejardin@example.com",
+    "phone": "+1-555-111-2222",
+    "foods": [
+      [
+        {
+          "name": "Tartar de atún con aguacate",
+          "description": "Finas láminas de atún fresco marinadas en aceite de oliva y limón, acompañadas con aguacate en cubos. Decorado con una reducción de balsámico y cebolla morada encurtida.",
+          "keywords": [
+            "comida gourmet",
+            "técnicas culinarias innovadoras",
+            "presentación elegante"
+          ]
+        },
+        {
+          "name": "Risotto de hongos silvestres",
+          "description": "Risotto cremoso con hongos silvestres salteados, queso parmesano y un toque de trufa negra. Decorado con hojas de perejil fresco.",
+          "keywords": [
+            "comida gourmet",
+            "ingredientes de temporada",
+            "técnicas culinarias innovadoras"
+          ]
+        },
+        {
+          "name": "Filete de ternera con salsa de vino tinto",
+          "description": "Filete de ternera a la parrilla, acompañado con una salsa de vino tinto y chalotas. Servido con puré de patatas y espárragos al grill.",
+          "keywords": ["comida gourmet", "refinada", "vinos selectos"]
+        },
+        {
+          "name": "Cordero asado con puré de berenjena",
+          "description": "Paletilla de cordero asado lentamente, acompañado con puré de berenjena ahumado y una reducción de miel y romero.",
+          "keywords": [
+            "comida gourmet",
+            "ingredientes de temporada",
+            "técnicas culinarias innovadoras"
+          ]
+        },
+        {
+          "name": "Crème brûlée de lavanda",
+          "description": "Postre clásico francés con un toque de lavanda fresca. Servido con una galleta de almendras.",
+          "keywords": [
+            "comida gourmet",
+            "técnicas culinarias innovadoras",
+            "presentación elegante"
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "name": "La Table",
+    "description": "Restaurante de comida gourmet que se enfoca en ofrecer platillos creativos y contemporáneos. El menú es una fusión de ingredientes locales y exóticos, y se presenta con una presentación artística. El ambiente del restaurante es moderno y elegante, y el servicio es excepcional.",
+    "keywords": [
+      "comida gourmet",
+      "platillos creativos",
+      "ingredientes locales",
+      "ingredientes exóticos",
+      "presentación artística",
+      "ambiente moderno",
+      "servicio excepcional"
+    ],
+    "email": "latable@example.com",
+    "phone": "+1-555-333-4444",
+    "foods": [
+      {
+        "name": "Tostada de pulpo con salsa de ajonjolí negro",
+        "description": "Tostada crujiente con pulpo a la parrilla, una salsa de ajonjolí negro y aguacate en cubos. Decorado con hojas de cilantro y chile serrano encurtido.",
+        "keywords": [
+          "comida gourmet",
+          "platillos creativos",
+          "ingredientes locales",
+          "presentación artística"
+        ]
+      },
+      {
+        "name": "Ravioli de pato con salsa de higos y trufa",
+        "description": "Ravioli casero relleno de pato y foie gras, acompañado con una salsa de higos y trufa. Decorado con hojas de albahaca fresca y escamas de sal de trufa.",
+        "keywords": [
+          "comida gourmet",
+          "platillos creativos",
+          "ingredientes exóticos",
+          "presentación artística"
+        ]
+      },
+      {
+        "name": "Salmón con glaseado de miel y jengibre",
+        "description": "Filete de salmón glaseado con miel y jengibre, acompañado con arroz salvaje y edamames. Decorado con cebolla verde en rodajas y semillas de sésamo tostadas.",
+        "keywords": [
+          "comida gourmet",
+          "ingredientes locales",
+          "platillos creativos"
+        ]
+      },
+      {
+        "name": "Costillas de cerdo con salsa de guayaba",
+        "description": "Costillas de cerdo cocidas a baja temperatura, acompañadas con una salsa de guayaba y chipotle. Servido con puré de camote y cebolla caramelizada.",
+        "keywords": [
+          "comida gourmet",
+          "platillos creativos",
+          "ingredientes locales",
+          "presentación artística"
+        ]
+      },
+      {
+        "name": "Postre de tres leches con frutas de temporada",
+        "description": "Pastel de tres leches con una capa de frutas de temporada y crema batida. Decorado con hojas de menta fresca y un toque de ralladura de limón.",
+        "keywords": [
+          "comida gourmet",
+          "ingredientes locales",
+          "presentación artística"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gastronómica",
+    "description": "Restaurante de comida gourmet que se especializa en platillos de alta cocina. El menú ofrece opciones para todos los gustos, desde platos de carne y pescado hasta opciones vegetarianas y veganas. Los ingredientes son frescos y de la mejor calidad, y el personal está altamente capacitado para ofrecer un servicio excepcional.",
+    "keywords": [
+      "comida gourmet",
+      "alta cocina",
+      "platos de carne",
+      "platos de pescado",
+      "opciones vegetarianas",
+      "opciones veganas",
+      "ingredientes frescos",
+      "servicio excepcional"
+    ],
+    "email": "gastronomica@example.com",
+    "phone": "+1-555-555-6666",
+    "foods": [
+      {
+        "name": "Solomillo de ternera con salsa de vino tinto",
+        "description": "Un delicioso solomillo de ternera acompañado de una salsa de vino tinto y patatas al horno. Perfecto para los amantes de la carne y la alta cocina.",
+        "keywords": ["alta cocina", "platos de carne"]
+      },
+      {
+        "name": "Ceviche de pescado blanco",
+        "description": "Este ceviche se prepara con pescado blanco fresco, cebolla, cilantro, chile y jugo de limón. Una opción refrescante y deliciosa para los amantes del pescado.",
+        "keywords": ["platos de pescado", "ingredientes frescos"]
+      },
+      {
+        "name": "Risotto de hongos porcini",
+        "description": "Un cremoso risotto preparado con hongos porcini y queso parmesano. Perfecto para los amantes de la cocina vegetariana y los sabores umami.",
+        "keywords": [
+          "alta cocina",
+          "opciones vegetarianas",
+          "ingredientes frescos"
+        ]
+      },
+      {
+        "name": "Ensalada de remolacha y queso de cabra",
+        "description": "Una ensalada fresca y saludable preparada con remolacha, queso de cabra, nueces y vinagreta de miel y mostaza. Ideal para los que buscan opciones vegetarianas o veganas.",
+        "keywords": [
+          "opciones vegetarianas",
+          "opciones veganas",
+          "ingredientes frescos"
+        ]
+      },
+      {
+        "name": "Ravioli de calabaza con salsa de salvia",
+        "description": "Raviolis rellenos de puré de calabaza y queso ricotta, acompañados de una suave salsa de salvia y mantequilla. Una deliciosa opción para los amantes de la cocina italiana y vegetariana.",
+        "keywords": [
+          "alta cocina",
+          "opciones vegetarianas",
+          "ingredientes frescos"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "El Cielo",
+    "description": "Restaurante de comida gourmet que ofrece una experiencia culinaria única e innovadora. El menú se basa en ingredientes locales y se fusiona con técnicas culinarias internacionales para crear platos únicos y deliciosos. El ambiente del restaurante es elegante y sofisticado, y el servicio es excepcional.",
+    "keywords": [
+      "comida gourmet",
+      "experiencia culinaria única",
+      "ingredientes locales",
+      "técnicas culinarias internacionales",
+      "ambiente elegante",
+      "servicio excepcional"
+    ],
+    "email": "elcielo@example.com",
+    "phone": "+1-555-777-8888",
+    "foods": [
+      [
+        {
+          "name": "Ceviche de langostinos",
+          "description": "Delicioso ceviche preparado con langostinos frescos de la zona y limón de la región. Un toque de cilantro y cebolla le dan un sabor único y refrescante.",
+          "keywords": ["ingredientes locales", "experiencia culinaria única"]
+        },
+        {
+          "name": "Risotto de hongos",
+          "description": "Risotto cremoso con hongos de la zona y queso parmesano. La textura es suave y sedosa, con un sabor intenso y profundo.",
+          "keywords": [
+            "comida gourmet",
+            "técnicas culinarias internacionales",
+            "ingredientes locales"
+          ]
+        },
+        {
+          "name": "Salmón a la parrilla",
+          "description": "Salmón fresco de la región asado a la parrilla con una marinada de hierbas y especias. El resultado es un plato jugoso y lleno de sabor.",
+          "keywords": [
+            "técnicas culinarias internacionales",
+            "ingredientes locales"
+          ]
+        },
+        {
+          "name": "Pasta a la boloñesa",
+          "description": "Pasta fresca hecha en casa servida con una salsa de carne de res a fuego lento con tomate y especias. Una opción clásica pero siempre deliciosa.",
+          "keywords": ["comida gourmet", "ingredientes locales"]
+        },
+        {
+          "name": "Tarta de manzana",
+          "description": "Tarta de manzana casera con una costra de masa quebrada y un relleno suave y aromático de manzanas frescas. Un postre clásico que no puede faltar.",
+          "keywords": ["experiencia culinaria única"]
+        }
+      ]
+    ]
+  },
+  {
+    "name": "La Cava",
+    "description": "Restaurante de comida gourmet que ofrece una experiencia culinaria de alta calidad. El menú se basa en ingredientes frescos y de la mejor calidad, y se presenta de manera creativa y artística. El ambiente del restaurante es íntimo y acogedor, y el servicio es personalizado y amable.",
+    "keywords": [
+      "comida gourmet",
+      "alta calidad",
+      "ingredientes frescos",
+      "presentación creativa",
+      "ambiente íntimo",
+      "servicio personalizado"
+    ],
+    "email": "lacava@example.com",
+    "phone": "+1-555-999-0000",
+    "foods": [
+      {
+        "name": "Carpaccio de res",
+        "description": "Finas láminas de carne de res marinada en aceite de oliva y vinagre balsámico, acompañadas de rúcula fresca y queso parmesano.",
+        "keywords": [
+          "comida gourmet",
+          "alta calidad",
+          "ingredientes frescos",
+          "presentación creativa"
+        ]
+      },
+      {
+        "name": "Risotto de hongos",
+        "description": "Arroz carnaroli cocido en caldo de pollo con hongos porcini y champiñones, terminado con mantequilla y queso parmesano.",
+        "keywords": [
+          "comida gourmet",
+          "alta calidad",
+          "ingredientes frescos",
+          "presentación creativa"
+        ]
+      },
+      {
+        "name": "Salmón en costra de almendras",
+        "description": "Filete de salmón fresco cubierto con una costra crujiente de almendras y hierbas, acompañado de puré de coliflor y zanahorias asadas.",
+        "keywords": [
+          "comida gourmet",
+          "alta calidad",
+          "ingredientes frescos",
+          "presentación creativa"
+        ]
+      },
+      {
+        "name": "Ensalada de aguacate y camarones",
+        "description": "Camarones frescos salteados con ajo y chile, servidos sobre una cama de lechuga, aguacate y tomate cherry, aliñados con vinagreta de limón y cilantro.",
+        "keywords": [
+          "comida gourmet",
+          "alta calidad",
+          "ingredientes frescos",
+          "servicio personalizado"
+        ]
+      },
+      {
+        "name": "Tarta de manzana con helado de vainilla",
+        "description": "Tarta de manzana casera con una base crujiente de masa quebrada, rellena de manzanas caramelizadas con canela y vainilla, servida con una bola de helado de vainilla.",
+        "keywords": [
+          "comida gourmet",
+          "presentación creativa",
+          "servicio personalizado"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Green Leaf",
+    "description": "Restaurante de comida vegetariana con opciones veganas. Ofrecemos una variedad de platos saludables y deliciosos que incluyen ensaladas, sopas, wraps y bowls. Todos nuestros ingredientes son frescos y de la mejor calidad, y nuestro ambiente es relajado y acogedor.",
+    "keywords": [
+      "comida vegetariana",
+      "opciones veganas",
+      "ensaladas",
+      "sopas",
+      "wraps",
+      "bowls",
+      "ingredientes frescos",
+      "ambiente relajado"
+    ],
+    "email": "greenleaf@example.com",
+    "phone": "+1-555-111-2222",
+    "foods": [
+      {
+        "name": "Ensalada de quinoa y aguacate",
+        "description": "Ensalada de quinoa con aguacate, tomate cherry, maíz, cebolla roja y cilantro, aliñada con vinagreta de limón y aceite de oliva.",
+        "keywords": [
+          "comida vegetariana",
+          "opciones veganas",
+          "ensaladas",
+          "ingredientes frescos"
+        ]
+      },
+      {
+        "name": "Sopa de lentejas y verduras",
+        "description": "Sopa de lentejas con zanahorias, cebolla, apio y tomate, sazonada con especias mediterráneas y servida con pan integral tostado.",
+        "keywords": [
+          "comida vegetariana",
+          "sopas",
+          "ingredientes frescos",
+          "ambiente relajado"
+        ]
+      },
+      {
+        "name": "Wrap de falafel y hummus",
+        "description": "Wrap de trigo integral relleno de falafel casero, hummus, lechuga, tomate y pepino, acompañado de papas fritas de camote y salsa de yogur.",
+        "keywords": [
+          "comida vegetariana",
+          "opciones veganas",
+          "wraps",
+          "ingredientes frescos",
+          "ambiente relajado"
+        ]
+      },
+      {
+        "name": "Bowl de tofu y vegetales",
+        "description": "Bowl de arroz integral con tofu a la parrilla, espinaca, brócoli, zanahoria y edamame, servido con aderezo de tahini y semillas de sésamo tostado.",
+        "keywords": [
+          "comida vegetariana",
+          "opciones veganas",
+          "bowls",
+          "ingredientes frescos",
+          "ambiente relajado"
+        ]
+      },
+      {
+        "name": "Helado de frutas del bosque",
+        "description": "Helado vegano de frutas del bosque, hecho con leche de coco y sin azúcar añadido, servido con frutas frescas y nueces.",
+        "keywords": [
+          "comida vegetariana",
+          "opciones veganas",
+          "postres",
+          "ingredientes frescos"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Vegan Table",
+    "description": "Restaurante de comida vegetariana y vegana. Ofrecemos una variedad de platos innovadores y creativos que satisfacen tanto a los vegetarianos como a los veganos. Todos nuestros ingredientes son orgánicos y de la mejor calidad, y nuestro ambiente es elegante y moderno.",
+    "keywords": [
+      "comida vegetariana",
+      "comida vegana",
+      "platos innovadores",
+      "platos creativos",
+      "ingredientes orgánicos",
+      "ambiente elegante",
+      "ambiente moderno"
+    ],
+    "email": "thevegantable@example.com",
+    "phone": "+1-555-333-4444",
+    "foods": [
+      {
+        "name": "Bowl Mediterráneo",
+        "description": "Ensalada de quinoa, garbanzos, tomate, pepino, aceitunas y cebolla roja con aderezo de limón y hierbas. Vegano y sin gluten.",
+        "keywords": [
+          "ensalada",
+          "quinoa",
+          "garbanzos",
+          "tomate",
+          "aceitunas",
+          "cebolla",
+          "vegano",
+          "sin gluten"
+        ]
+      },
+      {
+        "name": "Tofu Tikka Masala",
+        "description": "Tofu marinado en especias y cocido en una salsa cremosa de tomate y especias indias. Servido con arroz basmati y pan naan. Vegano y sin gluten.",
+        "keywords": [
+          "tofu",
+          "salsa cremosa",
+          "especias indias",
+          "arroz basmati",
+          "pan naan",
+          "vegano",
+          "sin gluten"
+        ]
+      },
+      {
+        "name": "Wrap Mexicano",
+        "description": "Wrap relleno de frijoles negros, arroz, pimiento, cebolla, guacamole, salsa y cilantro. Servido con chips y salsa. Vegano y sin gluten.",
+        "keywords": [
+          "wrap",
+          "frijoles negros",
+          "arroz",
+          "pimiento",
+          "cebolla",
+          "guacamole",
+          "salsa",
+          "cilantro",
+          "chips",
+          "vegano",
+          "sin gluten"
+        ]
+      },
+      {
+        "name": "Risotto de Setas",
+        "description": "Risotto cremoso de arroz Arborio con setas, cebolla y ajo, terminado con queso vegano y perejil. Vegano y sin gluten.",
+        "keywords": [
+          "risotto",
+          "setas",
+          "arroz Arborio",
+          "cebolla",
+          "ajo",
+          "queso vegano",
+          "perejil",
+          "vegano",
+          "sin gluten"
+        ]
+      },
+      {
+        "name": "Cheesecake de Chocolate",
+        "description": "Cheesecake vegano de chocolate con base de galletas de almendra y coco. Sin gluten.",
+        "keywords": [
+          "cheesecake",
+          "chocolate",
+          "galletas de almendra",
+          "coco",
+          "vegano",
+          "sin gluten"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vegetarian Paradise",
+    "description": "Restaurante de comida vegetariana con opciones veganas. Ofrecemos una variedad de platos sabrosos y llenos de sabor que satisfacen tanto a los vegetarianos como a los no vegetarianos. Todos nuestros ingredientes son frescos y de la mejor calidad, y nuestro ambiente es acogedor y relajado.",
+    "keywords": [
+      "comida vegetariana",
+      "opciones veganas",
+      "platos sabrosos",
+      "ingredientes frescos",
+      "ambiente acogedor",
+      "ambiente relajado"
+    ],
+    "email": "vegetarianparadise@example.com",
+    "phone": "+1-555-555-6666",
+    "foods": [
+      {
+        "name": "Ensalada de quinoa",
+        "description": "Ensalada fresca y saludable con quinoa, aguacate, tomate y espinacas. Aliñada con una vinagreta de limón y aceite de oliva.",
+        "keywords": ["comida vegetariana", "ensaladas", "ingredientes frescos"]
+      },
+      {
+        "name": "Hamburguesa de lentejas",
+        "description": "Hamburguesa vegetariana hecha de lentejas, cebolla, ajo y zanahoria, acompañada de ensalada y patatas fritas.",
+        "keywords": [
+          "comida vegetariana",
+          "platos sabrosos",
+          "ingredientes frescos"
+        ]
+      },
+      {
+        "name": "Burrito de frijoles negros",
+        "description": "Burrito relleno de frijoles negros, arroz, aguacate, lechuga y salsa de tomate, servido con una ensalada fresca.",
+        "keywords": [
+          "comida vegetariana",
+          "opciones veganas",
+          "platos sabrosos"
+        ]
+      },
+      {
+        "name": "Curry de verduras",
+        "description": "Curry vegetariano con zanahoria, calabacín, coliflor, patata y guisantes en una salsa cremosa de curry, servido con arroz basmati.",
+        "keywords": [
+          "comida vegetariana",
+          "platos sabrosos",
+          "ingredientes frescos"
+        ]
+      },
+      {
+        "name": "Sopa de calabaza",
+        "description": "Sopa cremosa de calabaza con un toque de jengibre y leche de coco, acompañada de pan integral tostado.",
+        "keywords": ["comida vegetariana", "sopas", "ingredientes frescos"]
+      }
+    ]
+  },
+  {
+    "name": "The Loving Hut",
+    "description": "Restaurante de comida vegetariana y vegana. Ofrecemos una amplia variedad de platos de diferentes partes del mundo, todos ellos preparados con ingredientes frescos y saludables. Nuestro ambiente es relajado y acogedor, perfecto para disfrutar de una comida sabrosa y nutritiva.",
+    "keywords": [
+      "comida vegetariana",
+      "comida vegana",
+      "platos internacionales",
+      "ingredientes frescos",
+      "ambiente relajado",
+      "ambiente acogedor"
+    ],
+    "email": "thelovinghut@example.com",
+    "phone": "+1-555-777-8888",
+    "foods": [
+      {
+        "name": "Buddha Bowl",
+        "description": "Plato saludable compuesto por arroz integral, cubos de tempeh, quinua, verduras salteadas y sésamo.",
+        "keywords": ["comida vegetariana", "comida vegana", "plato saludable"]
+      },
+      {
+        "name": "Hummus de Pimiento Rojo",
+        "description": "Rico y cremoso hummus hecho con pimientos rojos, hierbas frescas y sésamo.",
+        "keywords": ["comida vegetariana", "comida vegana", "hummus"]
+      },
+      {
+        "name": "Nachos de Lentejas",
+        "description": "Nachos crujientes y sabrosos rellenos de lentejas, nueces y especias.",
+        "keywords": ["comida vegetariana", "comida vegana", "nachos"]
+      },
+      {
+        "name": "Gushi Curry",
+        "description": "Curry de verduras hecho con arroz basmati y una punta de chili para darle un toque especial.",
+        "keywords": [
+          "comida vegetariana",
+          "comida vegana",
+          "platos internacionales",
+          "curry"
+        ]
+      },
+      {
+        "name": "Espaguetis de Calabacín",
+        "description": "Espaguetis hechos con calabacín fresco y salsa de tomate casera, espolvoreados con parmesano vegano.",
+        "keywords": ["comida vegetariana", "comida vegana", "espaguetis"]
+      }
+    ]
+  },
+  {
+    "name": "The Green Kitchen",
+    "description": "Restaurante de comida vegetariana con opciones veganas. Ofrecemos una variedad de platos caseros y deliciosos que satisfacen a todos los paladares. Todos nuestros ingredientes son orgánicos y de la mejor calidad, y nuestro ambiente es cálido y acogedor.",
+    "keywords": [
+      "comida vegetariana",
+      "opciones veganas",
+      "platos caseros",
+      "ingredientes orgánicos",
+      "ambiente cálido",
+      "ambiente acogedor"
+    ],
+    "email": "thegreenkitchen@example.com",
+    "phone": "+1-555-999-0000",
+    "foods": [
+      {
+        "name": "Ensalada de remolacha",
+        "description": "Una deliciosa ensalada de remolacha asada con queso de cabra, nueces y una vinagreta de miel y mostaza. Perfecta para una comida ligera y saludable.",
+        "keywords": [
+          "comida vegetariana",
+          "ensaladas",
+          "ingredientes orgánicos",
+          "platos caseros"
+        ]
+      },
+      {
+        "name": "Lasaña vegetariana",
+        "description": "Una lasaña casera y sabrosa llena de verduras frescas y queso ricotta. Servida con una ensalada fresca, es una comida abundante y satisfactoria.",
+        "keywords": [
+          "comida vegetariana",
+          "platos caseros",
+          "ingredientes orgánicos"
+        ]
+      },
+      {
+        "name": "Curry de garbanzos",
+        "description": "Un delicioso plato de garbanzos en una salsa de curry picante y cremosa. Servido con arroz integral y pan naan, es una comida reconfortante y llena de sabor.",
+        "keywords": [
+          "comida vegetariana",
+          "ingredientes orgánicos",
+          "platos caseros"
+        ]
+      },
+      {
+        "name": "Sopa de lentejas",
+        "description": "Una sopa casera de lentejas con zanahoria, apio y cebolla. Servida con pan integral, es una comida sencilla y satisfactoria.",
+        "keywords": [
+          "comida vegetariana",
+          "sopas",
+          "ingredientes orgánicos",
+          "platos caseros"
+        ]
+      },
+      {
+        "name": "Wrap de hummus y verduras",
+        "description": "Un wrap de trigo integral relleno de hummus, zanahorias ralladas, pepino y aguacate. Perfecto para una comida rápida y saludable.",
+        "keywords": ["comida vegetariana", "wraps", "ingredientes orgánicos"]
+      }
+    ]
+  },
+  {
+    "name": "Le Jules Verne",
+    "description": "Restaurante de alta cocina francesa ubicado en la Torre Eiffel. Ofrecemos una experiencia gastronómica excepcional con vistas impresionantes de París. Nuestros platos están elaborados con ingredientes frescos y de alta calidad, y nuestro servicio es excepcional.",
+    "keywords": [
+      "alta cocina francesa",
+      "vistas impresionantes",
+      "ingredientes frescos",
+      "servicio excepcional",
+      "experiencia gastronómica"
+    ],
+    "email": "lejulesverne@example.com",
+    "phone": "+33-1-555-666-777",
+    "foods": [
+      {
+        "name": "Filete Mignon con salsa de trufas",
+        "description": "Delicioso filete de ternera acompañado de una rica salsa de trufas. Un plato exquisito de la alta cocina francesa.",
+        "keywords": ["alta cocina francesa"]
+      },
+      {
+        "name": "Soufflé de queso gruyere",
+        "description": "Un suflé de queso gruyere con una textura y sabor increíble. Un plato clásico de la alta cocina francesa.",
+        "keywords": ["alta cocina francesa"]
+      },
+      {
+        "name": "Lenguado a la Meunière",
+        "description": "Lenguado fresco acompañado de una salsa meunière hecha a base de mantequilla, limón y perejil. Un plato típico de la alta cocina francesa.",
+        "keywords": ["alta cocina francesa", "ingredientes frescos"]
+      },
+      {
+        "name": "Escargots de Bourgogne",
+        "description": "Un plato tradicional de la alta cocina francesa que consiste en caracoles de Borgoña cocidos en mantequilla, ajo y perejil.",
+        "keywords": ["alta cocina francesa"]
+      },
+      {
+        "name": "Sopa de cebolla gratinada",
+        "description": "Una sopa clásica de la alta cocina francesa que se sirve gratinada con queso gruyere. Una delicia para el paladar.",
+        "keywords": ["alta cocina francesa"]
+      }
+    ]
+  },
+  {
+    "name": "Masa",
+    "description": "Restaurante de sushi de lujo en Nueva York. Ofrecemos sushi tradicional y contemporáneo preparado con los ingredientes más frescos y de alta calidad. Nuestro ambiente es elegante y sofisticado, perfecto para disfrutar de una experiencia gastronómica única.",
+    "keywords": [
+      "sushi de lujo",
+      "ingredientes frescos",
+      "ambiente elegante",
+      "experiencia gastronómica única",
+      "sushi tradicional",
+      "sushi contemporáneo"
+    ],
+    "email": "masa@example.com",
+    "phone": "+1-212-555-1234",
+    "foods": [
+      {
+        "name": "Sushi de salmón y aguacate",
+        "description": "Una deliciosa combinación de salmón fresco y aguacate cremoso envuelto en arroz al estilo Masa. Perfecto para los amantes del sushi tradicional.",
+        "keywords": ["sushi tradicional", "ingredientes frescos"]
+      },
+      {
+        "name": "Nigiri de vieira",
+        "description": "Un nigiri de vieira fresca y jugosa, servido con una fina capa de arroz y wasabi.",
+        "keywords": ["sushi contemporáneo", "ingredientes frescos"]
+      },
+      {
+        "name": "Roll de atún picante",
+        "description": "Un roll de sushi de atún fresco con un toque de chile picante para darle un poco de sabor.",
+        "keywords": ["sushi contemporáneo", "ingredientes frescos"]
+      },
+      {
+        "name": "Sashimi de hamachi",
+        "description": "Deliciosas láminas de hamachi fresco cortado en finas tiras, acompañado de salsa de soja y wasabi.",
+        "keywords": ["sushi tradicional", "ingredientes frescos"]
+      },
+      {
+        "name": "Bolas de arroz con sabor a pescado",
+        "description": "Bolas de arroz con sabor a pescado, rellenas de atún, salmón y huevas de pescado. Una opción deliciosa y fácil de comer.",
+        "keywords": ["sushi contemporáneo", "ingredientes frescos"]
+      }
+    ]
+  },
+  {
+    "name": "El Celler de Can Roca",
+    "description": "Restaurante de alta cocina española ubicado en Girona. Ofrecemos una experiencia gastronómica excepcional con platos creativos y sabores únicos. Nuestros ingredientes son frescos y locales, y nuestro servicio es impecable.",
+    "keywords": [
+      "alta cocina española",
+      "experiencia gastronómica",
+      "platos creativos",
+      "sabores únicos",
+      "ingredientes frescos",
+      "servicio impecable"
+    ],
+    "email": "cellercanroca@example.com",
+    "phone": "+34-972-222-222",
+    "foods": [
+      {
+        "name": "Sopa de pescado con toques mediterráneos",
+        "description": "Una sopa de pescado con una base de caldo de marisco y toques de tomate y azafrán. Perfecta para los amantes de los sabores mediterráneos.",
+        "keywords": ["sabores únicos", "ingredientes frescos"]
+      },
+      {
+        "name": "Risotto de setas y trufa",
+        "description": "Un delicioso risotto cremoso con setas frescas y trufa negra rallada. Un plato que combina a la perfección la textura y el sabor de los ingredientes.",
+        "keywords": ["platos creativos", "ingredientes frescos"]
+      },
+      {
+        "name": "Lomo de vaca con salsa de vino tinto",
+        "description": "Un exquisito lomo de vaca cocido a la perfección, acompañado de una salsa de vino tinto y cebolla caramelizada. Un plato que hará las delicias de los amantes de la carne.",
+        "keywords": ["alta cocina española", "sabores únicos"]
+      },
+      {
+        "name": "Ensalada de queso de cabra y frutos rojos",
+        "description": "Una fresca y deliciosa ensalada con queso de cabra fresco, mezclum de lechugas y frutos rojos. Una explosión de sabores y texturas en cada bocado.",
+        "keywords": ["ingredientes frescos", "experiencia gastronómica"]
+      },
+      {
+        "name": "Tarta de limón y merengue",
+        "description": "Una tarta de limón con una base de galleta crujiente, rellena de una crema de limón suave y coronada con un merengue perfectamente dorado. Un postre clásico pero con un toque único.",
+        "keywords": ["platos creativos", "experiencia gastronómica"]
+      }
+    ]
+  },
+  {
+    "name": "La Belle Époque",
+    "description": "Restaurante de alta gama que ofrece platos clásicos de la cocina francesa, junto con opciones vegetarianas y sin gluten.",
+    "keywords": [
+      "alta gama",
+      "cocina francesa",
+      "opciones vegetarianas",
+      "opciones sin gluten"
+    ],
+    "email": "info@labelleepoque.com",
+    "phone": "+1-555-555-5555",
+    "foods": [
+      {
+        "name": "Sopa de cebolla francesa",
+        "description": "Una sopa de cebolla típica de la cocina francesa, con un caldo rico y sabroso, cebolla caramelizada y un toque de brandy. Una deliciosa entrada para empezar la cena.",
+        "keywords": ["cocina francesa"]
+      },
+      {
+        "name": "Ratatouille provenzal",
+        "description": "Un plato vegetariano de la región de Provenza que combina tomates, berenjenas, calabacines y pimientos, todo asado al horno y servido con una guarnición de arroz basmati. Una opción deliciosa y saludable.",
+        "keywords": ["opciones vegetarianas"]
+      },
+      {
+        "name": "Escargots a la Bourguignonne",
+        "description": "Un plato clásico de la cocina francesa que consiste en caracoles de viña cocidos en mantequilla de ajo y hierbas, servidos en una cazuela de cerámica con pan tostado. Una experiencia culinaria única.",
+        "keywords": ["alta gama", "cocina francesa"]
+      },
+      {
+        "name": "Magret de pato con salsa de frutos rojos",
+        "description": "Un delicioso magret de pato cocido a la perfección, acompañado de una salsa de frutos rojos y una guarnición de puré de papas. Un plato exquisito que combina lo dulce y lo salado.",
+        "keywords": ["alta gama", "cocina francesa"]
+      },
+      {
+        "name": "Tarta tatin de manzanas",
+        "description": "Una deliciosa tarta tatin, un clásico de la repostería francesa, hecha con manzanas caramelizadas y una masa crujiente. Se sirve con una bola de helado de vainilla para un toque dulce adicional.",
+        "keywords": ["alta gama", "cocina francesa"]
+      }
+    ]
+  },
+  {
+    "name": "The Diamond Spoon",
+    "description": "Exclusivo restaurante de comida de lujo que ofrece una experiencia culinaria única con una mezcla de sabores exóticos y técnicas culinarias innovadoras.",
+    "keywords": [
+      "comida de lujo",
+      "sabores exóticos",
+      "técnicas culinarias innovadoras"
+    ],
+    "email": "info@thediamondspoon.com",
+    "phone": "+1-555-555-5555",
+    "foods": [
+      {
+        "name": "Tartar de atún con wasabi",
+        "description": "Un plato fresco y sabroso de tartar de atún fresco marinado en salsa de soja y aceite de sésamo, servido con una emulsión de wasabi y una crujiente de algas nori. Una combinación de sabores exóticos y técnicas innovadoras.",
+        "keywords": ["sabores exóticos", "técnicas culinarias innovadoras"]
+      },
+      {
+        "name": "Foie gras con chutney de higos",
+        "description": "Un plato clásico de la cocina francesa con un toque exótico, hecho con foie gras de pato fresco, servido con un chutney de higos y tostadas de pan brioche. Una experiencia culinaria de lujo.",
+        "keywords": ["comida de lujo", "sabores exóticos"]
+      },
+      {
+        "name": "Sopa de tom kha gai",
+        "description": "Una sopa tailandesa de pollo y coco con un toque de lima kaffir, galanga y hierba de limón. Una combinación única de sabores exóticos que te transportará a Tailandia.",
+        "keywords": ["sabores exóticos", "técnicas culinarias innovadoras"]
+      },
+      {
+        "name": "Cochinillo asado con puré de manzanas",
+        "description": "Un plato clásico de la cocina española con un toque innovador, hecho con cochinillo asado al horno y servido con un puré de manzanas asadas y cebollas caramelizadas. Una deliciosa combinación de sabores y texturas.",
+        "keywords": ["comida de lujo", "técnicas culinarias innovadoras"]
+      },
+      {
+        "name": "Sorbet de limón con gin tonic",
+        "description": "Un refrescante sorbete de limón servido en una copa de gin tonic, con un toque de menta fresca y hojas de lima. Una combinación única de sabores y texturas que estimulará tus sentidos.",
+        "keywords": ["comida de lujo", "sabores exóticos"]
+      }
+    ]
+  },
+  {
+    "name": "The Royal Table",
+    "description": "Restaurante de comida de lujo con una decoración opulenta y una atmósfera refinada. Ofrece platos de alta calidad y opciones vegetarianas, con una carta de postres especialmente destacable.",
+    "keywords": [
+      "comida de lujo",
+      "atmósfera refinada",
+      "opciones vegetarianas",
+      "postres"
+    ],
+    "email": "info@theroyaltablerestaurant.com",
+    "phone": "+1-555-555-5555",
+    "foods": [
+      {
+        "name": "Risotto de trufa blanca",
+        "description": "Arroz cremoso cocido en caldo de champiñones con aceite de trufa blanca y queso parmesano. Un plato decadente y delicioso.",
+        "keywords": ["comida de lujo", "trufa blanca"]
+      },
+      {
+        "name": "Ensalada de remolacha asada",
+        "description": "Remolacha asada, queso de cabra, nueces caramelizadas y vinagreta de miel y mostaza. Una ensalada fresca y saludable.",
+        "keywords": ["opciones vegetarianas"]
+      },
+      {
+        "name": "Cordero a la menta",
+        "description": "Cordero asado con salsa de menta y puré de patatas. Un clásico de la cocina británica.",
+        "keywords": ["comida de lujo"]
+      },
+      {
+        "name": "Pastel de chocolate y frambuesa",
+        "description": "Bizcocho de chocolate con relleno de mermelada de frambuesa y glaseado de chocolate negro. Un postre irresistible.",
+        "keywords": ["postres", "chocolate"]
+      },
+      {
+        "name": "Tallarines con salsa de setas",
+        "description": "Tallarines frescos con salsa cremosa de setas y queso parmesano. Una opción vegetariana deliciosa y reconfortante.",
+        "keywords": ["opciones vegetarianas", "comida de lujo"]
+      }
+    ]
+  },
+  {
+    "name": "El Gran Buffet",
+    "description": "Ofrecemos una gran variedad de platillos que satisfacen todos los gustos. Desde ensaladas frescas hasta pizzas recién horneadas, pasando por mariscos, carnes y postres exquisitos. ¡Ven a disfrutar nuestro buffet!",
+    "keywords": [
+      "buffet",
+      "variedad",
+      "ensaladas",
+      "pizzas",
+      "mariscos",
+      "carnes",
+      "postres"
+    ],
+    "email": "elgranbuffet@example.com",
+    "phone": "+1 (555) 123-4567",
+    "foods": [
+      {
+        "name": "Ensalada Caesar",
+        "description": "Lechuga romana fresca, crutones de ajo, queso parmesano rallado y pechuga de pollo a la parrilla, todo aderezado con nuestra deliciosa salsa Caesar. Una ensalada clásica que no puede faltar en nuestro buffet.",
+        "keywords": ["ensaladas", "variedad"]
+      },
+      {
+        "name": "Pizza Margarita",
+        "description": "Masa de pizza recién horneada con salsa de tomate, mozzarella fresca y hojas de albahaca. Una opción vegetariana y deliciosa que siempre es un éxito en nuestro buffet.",
+        "keywords": ["pizzas", "variedad", "opciones vegetarianas"]
+      },
+      {
+        "name": "Camarones al ajillo",
+        "description": "Camarones frescos cocidos en una deliciosa salsa de ajo y aceite de oliva, servidos con arroz blanco y ensalada. Un plato de mariscos que no puedes dejar de probar.",
+        "keywords": ["mariscos", "variedad"]
+      },
+      {
+        "name": "Carne asada",
+        "description": "Filete de res asado a la parrilla y servido con papas fritas y ensalada. Un plato de carne clásico que siempre es un éxito en nuestro buffet.",
+        "keywords": ["carnes", "variedad"]
+      },
+      {
+        "name": "Tarta de manzana",
+        "description": "Tarta de manzana recién horneada con una crujiente masa de hojaldre y un relleno de manzanas caramelizadas y canela. Un postre clásico que siempre es bienvenido en nuestro buffet.",
+        "keywords": ["postres", "variedad"]
+      }
+    ]
+  },
+  {
+    "name": "Buffet de la Abuela",
+    "description": "Nuestro buffet se especializa en comida casera, preparada con recetas tradicionales y con ingredientes frescos y naturales. Ofrecemos una amplia variedad de platos, incluyendo guisos, arroces, ensaladas y postres de la abuela. ¡Ven a probarlos!",
+    "keywords": [
+      "buffet",
+      "comida casera",
+      "recetas tradicionales",
+      "ingredientes frescos",
+      "variedad",
+      "guisos",
+      "arroces",
+      "ensaladas",
+      "postres"
+    ],
+    "email": "buffetdelaabuela@example.com",
+    "phone": "+1 (555) 987-6543",
+    "foods": [
+      {
+        "name": "Guiso de lentejas",
+        "description": "Lentejas cocidas a fuego lento con verduras frescas, chorizo y panceta, todo aderezado con especias y hierbas aromáticas. Un plato clásico y reconfortante que siempre es bienvenido en nuestro buffet.",
+        "keywords": [
+          "guisos",
+          "comida casera",
+          "recetas tradicionales",
+          "ingredientes frescos"
+        ]
+      },
+      {
+        "name": "Arroz con pollo",
+        "description": "Arroz cocido con trozos de pollo tierno, cebolla, ajo y pimiento rojo, todo aderezado con una mezcla de especias y caldo de pollo. Un plato de arroz clásico y sabroso que es una delicia para el paladar.",
+        "keywords": [
+          "arroces",
+          "comida casera",
+          "recetas tradicionales",
+          "ingredientes frescos"
+        ]
+      },
+      {
+        "name": "Ensalada de tomate y mozzarella",
+        "description": "Tomates frescos cortados en rodajas con mozzarella fresca, aceitunas negras, cebolla roja y una vinagreta de aceite de oliva y vinagre balsámico. Una ensalada fresca y sabrosa que es perfecta para acompañar cualquier plato.",
+        "keywords": ["ensaladas", "variedad", "ingredientes frescos"]
+      },
+      {
+        "name": "Pollo al horno con papas",
+        "description": "Muslos de pollo al horno con una mezcla de hierbas aromáticas, servidos con papas doradas y verduras asadas. Un plato de pollo clásico y delicioso que siempre es un éxito en nuestro buffet.",
+        "keywords": [
+          "carnes",
+          "comida casera",
+          "ingredientes frescos",
+          "variedad"
+        ]
+      },
+      {
+        "name": "Tarta de manzana de la abuela",
+        "description": "Tarta de manzana casera con una crujiente masa de hojaldre y un relleno de manzanas frescas y canela. Un postre clásico y reconfortante que es la especialidad de la casa.",
+        "keywords": ["postres", "comida casera", "recetas tradicionales"]
+      }
+    ]
+  },
+  {
+    "name": "Buffet del Chef",
+    "description": "Nuestro buffet ofrece una experiencia culinaria única, con platillos cuidadosamente preparados por nuestro chef ejecutivo. Ofrecemos una gran variedad de platillos que cambian diariamente, incluyendo ensaladas gourmet, pastas frescas, carnes de calidad y postres artesanales. ¡Ven a disfrutarlo!",
+    "keywords": [
+      "buffet",
+      "experiencia culinaria",
+      "chef ejecutivo",
+      "variedad diaria",
+      "ensaladas gourmet",
+      "pastas frescas",
+      "carnes de calidad",
+      "postres artesanales"
+    ],
+    "email": "buffetdelchef@example.com",
+    "phone": "+1 (555) 555-5555",
+    "foods": [
+      {
+        "name": "Ensalada de remolacha y queso de cabra",
+        "description": "Ensalada fresca con remolacha cocida, queso de cabra, hojas verdes y aderezo de vinagreta balsámica. Perfecta para los amantes de las ensaladas gourmet.",
+        "keywords": ["ensaladas gourmet"]
+      },
+      {
+        "name": "Pasta con salsa de tomate y albahaca",
+        "description": "Pasta fresca con salsa de tomate casera y albahaca fresca. Un plato simple pero delicioso que nunca decepciona.",
+        "keywords": ["pastas frescas"]
+      },
+      {
+        "name": "Lomo de res a la parrilla",
+        "description": "Lomo de res tierno y jugoso a la parrilla, acompañado de papas fritas y ensalada fresca. Una opción de carne de calidad para los amantes de la parrilla.",
+        "keywords": ["carnes de calidad"]
+      },
+      {
+        "name": "Tarta de manzana casera",
+        "description": "Tarta de manzana hecha en casa, con una masa crujiente y rellena de manzanas frescas y especias. Un postre artesanal que es una delicia.",
+        "keywords": ["postres artesanales"]
+      },
+      {
+        "name": "Ensalada de frutas",
+        "description": "Ensalada fresca de frutas de temporada, cortadas en cubos y servidas con yogur y miel. Una opción saludable y refrescante para terminar la comida.",
+        "keywords": ["ensaladas"]
+      }
+    ]
+  },
+  {
+    "name": "Buffet Mundo",
+    "description": "Disfruta de una experiencia culinaria de clase mundial con nuestro buffet de comida internacional. Ofrecemos una amplia variedad de platos preparados con ingredientes frescos y de alta calidad.",
+    "keywords": ["buffet", "internacional", "variedad", "calidad"],
+    "email": "buffetmundo@example.com",
+    "phone": "+1-555-555-5555",
+    "foods": [
+      {
+        "name": "Pollo al curry",
+        "description": "Trozos de pollo jugosos cocidos en una salsa cremosa de curry y especias, servidos con arroz basmati.",
+        "keywords": ["internacional", "variedad", "calidad"]
+      },
+      {
+        "name": "Sushi variado",
+        "description": "Un surtido de sushi con diferentes tipos de pescado fresco y arroz sazonado, servido con salsa de soja y wasabi.",
+        "keywords": ["buffet", "internacional", "variedad", "calidad"]
+      },
+      {
+        "name": "Pasta con salsa de tomate y albahaca",
+        "description": "Fideos largos y deliciosos servidos con una salsa casera de tomate y albahaca, acompañados de pan recién horneado.",
+        "keywords": ["internacional", "variedad", "calidad"]
+      },
+      {
+        "name": "Ensalada César",
+        "description": "Una ensalada clásica con lechuga fresca, crujientes trozos de pan tostado, queso parmesano rallado y aderezo César.",
+        "keywords": ["buffet", "internacional", "variedad"]
+      },
+      {
+        "name": "Tacos de pescado",
+        "description": "Tortillas de maíz rellenas de pescado empanizado y acompañadas de ensalada de col y salsa de chipotle.",
+        "keywords": ["buffet", "internacional", "variedad", "calidad"]
+      }
+    ]
+  },
+  {
+    "name": "El Gran Buffet",
+    "description": "Visítanos y degusta nuestra gran variedad de platillos. En nuestro buffet encontrarás desde ensaladas frescas hasta deliciosos postres. Todos nuestros alimentos están preparados con ingredientes de la mejor calidad.",
+    "keywords": ["buffet", "variedad", "calidad", "postres"],
+    "email": "elgranbuffet@example.com",
+    "phone": "+1-555-555-5555",
+    "foods": [
+      {
+        "name": "Ensalada Fresca con Aderezo de Vinagreta",
+        "description": "Una mezcla refrescante de lechuga, tomates, pepinos y cebolla con un aderezo de vinagreta casero.",
+        "keywords": ["ensaladas", "fresca", "calidad"]
+      },
+      {
+        "name": "Filete de Salmón a la Parrilla",
+        "description": "Salmón fresco a la parrilla con una salsa de hierbas y limón, acompañado de una guarnición de arroz y verduras al vapor.",
+        "keywords": ["calidad", "mariscos"]
+      },
+      {
+        "name": "Pollo al Horno con Papas y Verduras",
+        "description": "Pechuga de pollo horneada a la perfección con papas y verduras de temporada, sazonadas con hierbas frescas.",
+        "keywords": ["carnes", "calidad"]
+      },
+      {
+        "name": "Pizza Margherita",
+        "description": "Una pizza clásica italiana con tomates frescos, mozzarella de búfala y albahaca fresca.",
+        "keywords": ["pizzas", "calidad"]
+      },
+      {
+        "name": "Pastel de Chocolate Casero",
+        "description": "Un delicioso pastel de chocolate casero, servido con una bola de helado de vainilla y cubierto con una salsa de chocolate caliente.",
+        "keywords": ["postres", "calidad"]
+      }
+    ]
+  },
+  {
+    "name": "Restaurante del Dragón",
+    "description": "Ofrecemos una amplia selección de platos tradicionales chinos, desde dumplings hasta arroz frito. También tenemos opciones vegetarianas y sin gluten.",
+    "keywords": [
+      "comida china",
+      "restaurante",
+      "dumplings",
+      "arroz frito",
+      "opciones vegetarianas"
+    ],
+    "email": "restaurantedeldragon@gmail.com",
+    "phone": "+1 (555) 123-4567",
+    "foods": [
+      {
+        "name": "Dumplings de cerdo al vapor",
+        "description": "Dumplings rellenos de carne de cerdo y cebollín, cocidos al vapor y servidos con salsa de soja.",
+        "keywords": ["dumplings", "comida china"]
+      },
+      {
+        "name": "Arroz frito con pollo",
+        "description": "Arroz frito con pollo, cebolla, zanahoria, huevo y guisantes, sazonado con salsa de soja y aceite de sésamo.",
+        "keywords": ["arroz frito", "comida china"]
+      },
+      {
+        "name": "Tofu mapo",
+        "description": "Tofu suave cocido en una salsa picante de chile y soja, con carne de cerdo molida y cebolla verde.",
+        "keywords": ["comida china", "opciones vegetarianas"]
+      },
+      {
+        "name": "Chow mein de verduras",
+        "description": "Fideos de trigo salteados con brócoli, zanahoria, col china y cebolla, sazonados con salsa de soja y aceite de sésamo.",
+        "keywords": ["comida china", "opciones vegetarianas"]
+      },
+      {
+        "name": "Cerdo agridulce",
+        "description": "Cerdo frito en trozos, cubierto con una salsa agridulce de piña y pimiento, servido con arroz blanco.",
+        "keywords": ["comida china"]
+      }
+    ]
+  },
+  {
+    "name": "Sabor Oriental",
+    "description": "Nos especializamos en platos de la provincia de Sichuan, conocida por sus sabores picantes y audaces. Pruebe nuestro pollo Gong Bao o nuestra sopa de fideos de arroz picante.",
+    "keywords": [
+      "comida china",
+      "restaurante",
+      "Sichuan",
+      "pollo Gong Bao",
+      "sopa de fideos de arroz"
+    ],
+    "email": "sabororiental@gmail.com",
+    "phone": "+1 (555) 234-5678",
+    "foods": [
+      {
+        "name": "Pollo Kung Pao",
+        "description": "Este plato picante y sabroso incluye pollo frito con cacahuetes, cebollas y pimientos picantes en una salsa espesa de soja y vinagre de arroz. Perfecto para los amantes del picante.",
+        "keywords": ["comida china", "pollo Gong Bao", "Sichuan", "picante"]
+      },
+      {
+        "name": "Sopa de wanton",
+        "description": "Una sopa clásica de wanton de la provincia de Sichuan. Los wantons están rellenos de carne de cerdo y se sirven en un caldo de huesos de cerdo con jengibre, cebollas verdes y aceite de chile.",
+        "keywords": [
+          "comida china",
+          "Sichuan",
+          "sopa de fideos de arroz",
+          "wanton"
+        ]
+      },
+      {
+        "name": "Costillas de cerdo caramelizadas",
+        "description": "Costillas de cerdo cocidas a fuego lento en una salsa dulce y salada de soja, miel y jengibre. Servido con arroz al vapor y verduras salteadas.",
+        "keywords": [
+          "comida china",
+          "Sichuan",
+          "pollo Gong Bao",
+          "costillas de cerdo"
+        ]
+      },
+      {
+        "name": "Tallarines picantes con carne de res",
+        "description": "Un plato popular de fideos de Sichuan con carne de res y verduras en una salsa picante de chile, ajo y vinagre negro. Elaborado con tallarines de arroz frescos y crujientes.",
+        "keywords": [
+          "comida china",
+          "Sichuan",
+          "picante",
+          "sopa de fideos de arroz"
+        ]
+      },
+      {
+        "name": "Tofu Ma Po",
+        "description": "Tofu suave y esponjoso cocido en una salsa picante de chile y soja, junto con carne de cerdo picada y cebollas verdes. Acompañado de arroz blanco al vapor.",
+        "keywords": ["comida china", "Sichuan", "picante", "pollo Gong Bao"]
+      }
+    ]
+  },
+  {
+    "name": "Casa de Té",
+    "description": "Ofrecemos una experiencia gastronómica china auténtica, con una variedad de platos de dim sum y té tradicional. Pruebe nuestra tarta de huevo de pato y nuestro té de jazmín.",
+    "keywords": [
+      "comida china",
+      "restaurante",
+      "dim sum",
+      "té tradicional",
+      "tarta de huevo de pato"
+    ],
+    "email": "casadete@gmail.com",
+    "phone": "+1 (555) 345-6789",
+    "foods": [
+      {
+        "name": "Shumai de cerdo",
+        "description": "Deliciosos dumplings rellenos de cerdo molido y cebolla verde, cocidos al vapor y servidos con una salsa de soja y vinagre. Un plato clásico de dim sum.",
+        "keywords": [
+          "comida china",
+          "dim sum",
+          "té tradicional",
+          "tarta de huevo de pato"
+        ]
+      },
+      {
+        "name": "Bollos de carne de cerdo al vapor",
+        "description": "Bollos suaves y esponjosos rellenos de carne de cerdo y especias, cocidos al vapor y servidos con una salsa de soja y vinagre. Perfecto para acompañar con té de jazmín.",
+        "keywords": [
+          "comida china",
+          "dim sum",
+          "té tradicional",
+          "tarta de huevo de pato"
+        ]
+      },
+      {
+        "name": "Ensalada de algas",
+        "description": "Una ensalada refrescante de algas marinas con pepino, zanahoria y cebolla roja, aderezada con una vinagreta de aceite de sésamo y vinagre de arroz. Un acompañamiento ligero y saludable para los platos de dim sum.",
+        "keywords": ["comida china", "té tradicional", "tarta de huevo de pato"]
+      },
+      {
+        "name": "Tarta de loto",
+        "description": "Una tarta dulce de pasta de loto rellena de pasta de frijol rojo, envuelta en una capa fina y crujiente de masa de huevo. Un postre tradicional chino que se sirve con té caliente.",
+        "keywords": [
+          "comida china",
+          "dim sum",
+          "té tradicional",
+          "tarta de huevo de pato"
+        ]
+      },
+      {
+        "name": "Té Pu-erh",
+        "description": "Un té oscuro y terroso de la provincia de Yunnan, que se considera un tesoro nacional de China. Tiene un sabor intenso y complejo, con notas de tierra y madera. Perfecto para acompañar los platos de dim sum.",
+        "keywords": ["comida china", "té tradicional", "dim sum"]
+      }
+    ]
+  },
+  {
+    "name": "El Gran Muro",
+    "description": "Ofrecemos una amplia variedad de platos chinos, desde arroz frito hasta cerdo agridulce. También tenemos opciones vegetarianas y veganas.",
+    "keywords": [
+      "comida china",
+      "restaurante",
+      "arroz frito",
+      "cerdo agridulce",
+      "opciones vegetarianas"
+    ],
+    "email": "elgranmuro@gmail.com",
+    "phone": "+1 (555) 456-7890",
+    "foods": []
+  },
+  {
+    "name": "Sabor de Shanghai",
+    "description": "Nos especializamos en la cocina de Shanghai, que combina sabores dulces y salados en platos como el pato a la naranja y los fideos de arroz con salsa de soja.",
+    "keywords": [
+      "comida china",
+      "restaurante",
+      "Shanghai",
+      "pato a la naranja",
+      "fideos de arroz con salsa de soja"
+    ],
+    "email": "sabordeshanghai@gmail.com",
+    "phone": "+1 (555) 567-8901",
+    "foods": [
+      {
+        "name": "Arroz frito con pollo",
+        "description": "Un plato clásico de la cocina china que combina arroz frito con trozos de pollo tierno, huevos revueltos, guisantes, zanahorias y cebolla verde. Se sirve caliente y es perfecto para compartir.",
+        "keywords": ["comida china", "arroz frito", "opciones vegetarianas"]
+      },
+      {
+        "name": "Chop Suey de verduras",
+        "description": "Un plato vegetariano con una mezcla de verduras frescas, como brotes de soja, zanahorias, cebolla, brócoli y champiñones, cocidos en una salsa espesa y sabrosa. Se sirve sobre una cama de arroz blanco.",
+        "keywords": ["comida china", "opciones vegetarianas", "cerdo agridulce"]
+      },
+      {
+        "name": "Ternera salteada con jengibre",
+        "description": "Trozos tiernos de carne de ternera salteados con jengibre fresco, cebolla, pimiento y zanahorias en una salsa espesa de soja y ajo. Se sirve con arroz blanco y es un plato sabroso y nutritivo.",
+        "keywords": ["comida china", "opciones vegetarianas", "cerdo agridulce"]
+      },
+      {
+        "name": "Ensalada china",
+        "description": "Una ensalada fresca y crujiente de lechuga, zanahorias, pepino, cilantro y cacahuetes, aderezada con una vinagreta dulce y picante. Perfecta como entrada o como acompañamiento para los platos principales.",
+        "keywords": ["comida china", "opciones vegetarianas", "arroz frito"]
+      },
+      {
+        "name": "Rollitos de primavera vegetarianos",
+        "description": "Rollitos crujientes rellenos de vegetales frescos, como zanahoria, col, cebolla y brotes de soja. Se sirven calientes y crujientes, y son perfectos como aperitivo o como parte de una comida más grande.",
+        "keywords": ["comida china", "opciones vegetarianas", "cerdo agridulce"]
+      }
+    ]
+  },
+  {
+    "name": "Wok & Roll",
+    "description": "Un lugar donde el wok es el rey y la música rock suena sin parar. Aquí encontrarás auténtica comida china y un ambiente divertido.",
+    "keywords": ["comida china", "wok", "rock", "ambiente divertido"],
+    "email": "wokandroll@example.com",
+    "phone": "555-123-4567",
+    "foods": [
+      {
+        "name": "Wok de fideos de huevo con pollo al estilo Szechuan",
+        "description": "Fideos de huevo salteados en el wok con pollo, pimientos, cebolla y una salsa picante al estilo de la provincia de Szechuan.",
+        "keywords": ["wok", "comida china", "Szechuan", "picante"]
+      },
+      {
+        "name": "Ternera con brócoli al estilo cantonés",
+        "description": "Ternera tierna y brócoli fresco salteados en el wok con una salsa de ostras y soja al estilo cantonés.",
+        "keywords": ["wok", "comida china", "Cantón", "ternera", "brócoli"]
+      },
+      {
+        "name": "Arroz frito con camarones y piña",
+        "description": "Arroz frito en el wok con camarones, piña, guisantes, zanahoria y cebolla.",
+        "keywords": ["wok", "comida china", "arroz frito", "camarones", "piña"]
+      },
+      {
+        "name": "Rollitos primavera",
+        "description": "Rollitos rellenos de vegetales y carne de cerdo picada, fritos hasta que estén crujientes y servidos con salsa agridulce.",
+        "keywords": ["comida china", "rollitos primavera", "vegetales", "cerdo"]
+      },
+      {
+        "name": "Helado frito",
+        "description": "Helado de vainilla envuelto en masa de galleta, frito y servido con salsa de caramelo.",
+        "keywords": ["comida china", "postre", "helado", "frito"]
+      }
+    ]
+  },
+  {
+    "name": "The Golden Dragon",
+    "description": "Un lugar de ensueño para los amantes de la comida china. Aquí encontrarás los platos más deliciosos, elaborados con ingredientes frescos y de alta calidad.",
+    "keywords": [
+      "comida china",
+      "alta calidad",
+      "ingredientes frescos",
+      "delicioso"
+    ],
+    "email": "thegoldendragon@example.com",
+    "phone": "555-123-4567",
+    "foods": [
+      {
+        "name": "Arroz frito con pollo",
+        "description": "Un clásico de la cocina china. Arroz frito con pollo, verduras y salsa de soja.",
+        "keywords": [
+          "comida china",
+          "delicioso",
+          "arroz frito",
+          "pollo",
+          "verduras"
+        ]
+      },
+      {
+        "name": "Rollitos de primavera",
+        "description": "Crujientes y sabrosos, estos rollitos de primavera están rellenos de cerdo, verduras y fideos de arroz.",
+        "keywords": [
+          "comida china",
+          "delicioso",
+          "rollitos de primavera",
+          "cerdo",
+          "verduras",
+          "fideos de arroz"
+        ]
+      },
+      {
+        "name": "Ternera con brócoli",
+        "description": "Una combinación clásica de ternera y brócoli, en una deliciosa salsa de ostras.",
+        "keywords": [
+          "comida china",
+          "alta calidad",
+          "ternera",
+          "brócoli",
+          "salsa de ostras"
+        ]
+      },
+      {
+        "name": "Sopa de wonton",
+        "description": "Una sopa caliente y reconfortante con wontons rellenos de cerdo y langostinos.",
+        "keywords": [
+          "comida china",
+          "delicioso",
+          "sopa de wonton",
+          "cerdo",
+          "langostinos"
+        ]
+      },
+      {
+        "name": "Pollo Kung Pao",
+        "description": "Pollo frito con cacahuetes, chiles secos y verduras, en una salsa picante y sabrosa.",
+        "keywords": [
+          "comida china",
+          "delicioso",
+          "pollo",
+          "cacahuetes",
+          "chiles secos",
+          "salsa picante"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jade Palace",
+    "description": "Un oasis de sabor en medio de la ciudad. Aquí podrás disfrutar de la auténtica comida china, preparada con los mejores ingredientes y servida en un ambiente elegante.",
+    "keywords": [
+      "comida china",
+      "sabor auténtico",
+      "ingredientes de calidad",
+      "ambiente elegante"
+    ],
+    "email": "jadepalace@example.com",
+    "phone": "555-123-4567",
+    "foods": [
+      {
+        "name": "Arroz frito con pollo",
+        "description": "Un clásico de la comida china, este arroz frito está preparado con trozos jugosos de pollo y verduras frescas.",
+        "keywords": [
+          "comida china",
+          "sabor auténtico",
+          "ingredientes de calidad"
+        ]
+      },
+      {
+        "name": "Rollitos primavera",
+        "description": "Estos rollitos primavera son crujientes por fuera y llenos de sabor por dentro, con una mezcla de verduras y carne de cerdo.",
+        "keywords": [
+          "comida china",
+          "sabor auténtico",
+          "ingredientes de calidad"
+        ]
+      },
+      {
+        "name": "Cerdo agridulce",
+        "description": "Este plato clásico de la comida china combina trozos tiernos de cerdo con una salsa agridulce y verduras frescas.",
+        "keywords": [
+          "comida china",
+          "sabor auténtico",
+          "ingredientes de calidad"
+        ]
+      },
+      {
+        "name": "Sopa de wonton",
+        "description": "Esta sopa caliente y reconfortante está llena de wontons rellenos de carne de cerdo y servidos en un caldo de pollo.",
+        "keywords": [
+          "comida china",
+          "sabor auténtico",
+          "ingredientes de calidad",
+          "ambiente elegante"
+        ]
+      },
+      {
+        "name": "Pato pekinés",
+        "description": "Este plato es una delicia para los amantes de la carne de pato, servido con panqueques y una salsa especial.",
+        "keywords": [
+          "comida china",
+          "sabor auténtico",
+          "ingredientes de calidad",
+          "ambiente elegante"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dynasty",
+    "description": "Un restaurante que te transportará a la época dorada de la China imperial. Aquí encontrarás platos exquisitos y un ambiente majestuoso.",
+    "keywords": [
+      "comida china",
+      "época imperial",
+      "exquisito",
+      "ambiente majestuoso"
+    ],
+    "email": "dynasty@example.com",
+    "phone": "555-123-4567",
+    "foods": [
+      {
+        "name": "Pollo Kung Pao",
+        "description": "Este plato clásico de la cocina Sichuan combina pollo tierno con cacahuetes, cebolla, pimiento y un toque picante de guindilla.",
+        "keywords": ["comida china", "época imperial", "exquisito"]
+      },
+      {
+        "name": "Arroz frito imperial",
+        "description": "Este delicioso arroz frito incluye camarones, carne de cerdo, huevos, guisantes, zanahorias y cebolla, todo mezclado en un arroz perfumado.",
+        "keywords": ["comida china", "época imperial", "exquisito"]
+      },
+      {
+        "name": "Berenjenas de Sichuan",
+        "description": "Estas berenjenas picantes y dulces son un plato vegetariano que utiliza la cocina Sichuan para realzar su sabor.",
+        "keywords": [
+          "comida china",
+          "época imperial",
+          "exquisito",
+          "ambiente majestuoso"
+        ]
+      },
+      {
+        "name": "Pato a la naranja",
+        "description": "Este plato es un favorito clásico de la cocina china, con su piel crujiente, carne jugosa y una salsa agridulce de naranja.",
+        "keywords": [
+          "comida china",
+          "época imperial",
+          "exquisito",
+          "ambiente majestuoso"
+        ]
+      },
+      {
+        "name": "Tarta de loto",
+        "description": "Esta tarta de loto es un postre suave y delicado hecho con pasta de loto, huevo y leche condensada.",
+        "keywords": ["comida china", "época imperial", "exquisito"]
+      }
+    ]
+  }
+]

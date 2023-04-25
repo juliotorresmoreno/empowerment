@@ -33,13 +33,10 @@ export class RestaurantService {
         verified: true,
       })
       .then((result) => {
-        console.log(result);
-
-        this.findOneById(result.id);
+        return this.findOneById(result.id);
       })
       .catch(function (err) {
         if (err.constructor === MongoBulkWriteError) {
-          console.log('err', err);
           switch (err.code) {
             case 11000:
               const dup = err.message.split('key: ')[1] || '{}';
